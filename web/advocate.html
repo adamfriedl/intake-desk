@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intake Desk — Advocate</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Advocate desk</h1>
+      <p class="muted">Review intake, verify citations, and approve internal draft sections.</p>
+      <p class="muted"><a href="/">← Client intake</a></p>
+    </header>
+
+    <div class="card">
+      <label for="session-id"><strong>Session ID</strong></label>
+      <input id="session-id" type="text" placeholder="Paste session UUID from client intake" />
+      <button id="load-session" type="button">Load case file</button>
+    </div>
+
+    <div id="results" class="hidden">
+      <h2>Case file</h2>
+      <div id="case-file" class="card"></div>
+
+      <h2>Grounded answer (staff)</h2>
+      <div id="answer" class="card"></div>
+
+      <h2>Citations</h2>
+      <div id="citations" class="grid"></div>
+      <div id="chunk-panel" class="hidden card"></div>
+
+      <h2>Internal draft — section review</h2>
+      <p class="muted">
+        Approve sections you’d include in advocate notes. Clients do not see this step.
+      </p>
+      <div id="draft-actions">
+        <button id="approve-all" type="button">Approve all pending</button>
+      </div>
+      <div id="sections" class="grid"></div>
+
+      <h2>Audit log</h2>
+      <pre id="audit" class="raw"></pre>
+    </div>
+
+    <p id="status" class="muted"></p>
+    <script src="/static/advocate.js"></script>
+  </body>
+</html>

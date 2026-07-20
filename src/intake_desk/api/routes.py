@@ -36,6 +36,11 @@ async def index() -> FileResponse:
     return FileResponse(WEB_DIR / "index.html")
 
 
+@router.get("/advocate")
+async def advocate() -> FileResponse:
+    return FileResponse(WEB_DIR / "advocate.html")
+
+
 @router.get("/health")
 async def health() -> dict[str, str]:
     return {"status": "ok"}

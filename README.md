@@ -2,19 +2,16 @@
 
 Agentic legal intake, triage, and guided-document workflow — a portfolio project demonstrating RAG, multi-step LLM orchestration, schema-validated outputs, and golden-scenario evals for legal self-help contexts.
 
-**Status:** Phase 1 + review UI MVP — OpenRouter LLM/embeddings, pgvector RAG, citation grounding, advocate review UI, 16/16 evals. Not court-ready filings.
+**Status:** Legal aid intake prototype — client triage (self-help / escalate / refuse), advocate case file view, pgvector RAG, 16/16 evals.
 
 ## What it does
 
-1. **Intake** — extract structured facts from a layperson message
-2. **Classify** — route to matter type with confidence + human-review flag
-3. **Retrieve** — RAG over a curated corpus with mandatory citations
-4. **Draft** — section-level outline for advocate review (not court-ready filings)
-5. **Review** — approve, edit, or reject draft sections in the web UI
+**Client intake** (`/`): layperson describes a problem → triage outcome:
+- **Self-help** — short cited answer when the situation is straightforward
+- **Escalate** — intake recorded for advocate follow-up (complex, urgent, or missing jurisdiction)
+- **Refuse** — outside corpus / cannot ground safely
 
-```
-User message → intake → classify → retrieve/RAG → draft outline → advocate review
-```
+**Advocate desk** (`/advocate`): staff opens the session case file — facts, routing, grounded answer, citations, internal draft section review.
 
 ## Quick start
 
@@ -32,7 +29,7 @@ make ingest          # chunk + embed corpus into pgvector
 make up              # API on :8000
 ```
 
-Open http://127.0.0.1:8000/ — run intake, click citations to view source chunks, review draft sections.
+Open http://127.0.0.1:8000/ (client) or http://127.0.0.1:8000/advocate (staff)
 
 ## Run evals
 
@@ -61,7 +58,8 @@ intake-desk/
 │   ├── eval/         # eval runner
 │   ├── orchestrator/ # pipeline
 │   ├── rag/          # chunking, embeddings, pgvector, grounding
-│   ├── review/       # in-memory advocate session store
+│   ├── review/       # session store + triage outcomes
+│   ├── triage/       # self_help / escalate / refuse routing
 │   └── schemas/      # Pydantic models
 ├── tests/
 └── web/              # advocate review UI

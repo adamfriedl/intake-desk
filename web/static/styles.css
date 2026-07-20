@@ -1,0 +1,92 @@
+:root {
+  color-scheme: light dark;
+  font-family: system-ui, sans-serif;
+  --border: rgba(127, 127, 127, 0.25);
+  --muted: #666;
+  --warn: #b45309;
+  --danger: #b91c1c;
+  --ok: #15803d;
+}
+body {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 2rem 1.25rem 4rem;
+  line-height: 1.5;
+}
+h1 { margin-bottom: 0.25rem; }
+h2 { margin-top: 2rem; font-size: 1.15rem; }
+.muted { color: var(--muted); }
+textarea,
+input[type='text'] {
+  width: 100%;
+  padding: 0.75rem;
+  font: inherit;
+  box-sizing: border-box;
+}
+textarea { min-height: 120px; }
+button {
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+  padding: 0.55rem 0.9rem;
+  font: inherit;
+  cursor: pointer;
+}
+.banner {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--warn);
+  background: rgba(180, 83, 9, 0.08);
+}
+.banner.danger {
+  border-left-color: var(--danger);
+  background: rgba(185, 28, 28, 0.08);
+}
+.banner.ok {
+  border-left-color: var(--ok);
+  background: rgba(21, 128, 61, 0.08);
+}
+.grid { display: grid; gap: 1rem; }
+.card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+}
+.pill {
+  display: inline-block;
+  font-size: 0.85rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  margin-right: 0.35rem;
+}
+.pill.warn { border-color: var(--warn); color: var(--warn); }
+.pill.ok { border-color: var(--ok); color: var(--ok); }
+.pill.bad { border-color: var(--danger); color: var(--danger); }
+.citation {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+}
+.citation:hover { background: rgba(127, 127, 127, 0.08); }
+.section-actions { margin-top: 0.5rem; }
+.section-status {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.hidden { display: none; }
+pre.raw {
+  white-space: pre-wrap;
+  background: rgba(127, 127, 127, 0.12);
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+}
