@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intake Desk</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: system-ui, sans-serif;
+      }
+      body {
+        margin: 0 auto;
+        max-width: 840px;
+        padding: 2rem 1.25rem 4rem;
+        line-height: 1.5;
+      }
+      h1 {
+        margin-bottom: 0.25rem;
+      }
+      .muted {
+        color: #666;
+      }
+      textarea {
+        width: 100%;
+        min-height: 140px;
+        padding: 0.75rem;
+        font: inherit;
+      }
+      button {
+        margin-top: 0.75rem;
+        padding: 0.6rem 1rem;
+        font: inherit;
+        cursor: pointer;
+      }
+      pre {
+        white-space: pre-wrap;
+        background: rgba(127, 127, 127, 0.12);
+        padding: 1rem;
+        border-radius: 8px;
+        overflow-x: auto;
+      }
+      .banner {
+        margin: 1rem 0;
+        padding: 0.75rem 1rem;
+        border-left: 4px solid #b45309;
+        background: rgba(180, 83, 9, 0.08);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Intake Desk</h1>
+    <p class="muted">Decision-support prototype for legal intake and triage. Not legal advice.</p>
+    <div class="banner">
+      Review all outputs with a qualified advocate. This tool refuses when sources are insufficient.
+    </div>
+
+    <label for="message"><strong>Describe your situation</strong></label>
+    <textarea
+      id="message"
+      placeholder="Example: My landlord is trying to evict me in Multnomah County and I never got proper notice."
+    ></textarea>
+    <button id="submit">Run intake pipeline</button>
+
+    <h2>Result</h2>
+    <pre id="output">Submit a message to run the pipeline.</pre>
+
+    <script>
+      const submit = document.getElementById('submit');
+      const message = document.getElementById('message');
+      const output = document.getElementById('output');
+
+      submit.addEventListener('click', async () => {
+        output.textContent = 'Running pipeline...';
+        submit.disabled = true;
+        try {
+          const response = await fetch('/api/intake', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: message.value, include_draft: true }),
+          });
+          const data = await response.json();
+          if (!response.ok) {
+            throw new Error(data.detail || 'Request failed');
+          }
+          output.textContent = JSON.stringify(data, null, 2);
+        } catch (error) {
+          output.textContent = String(error);
+        } finally {
+          submit.disabled = false;
+        }
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+input: 'My landlord raised rent after I complained about bedbugs. Is that retaliation in Oregon?'
+expected:
+  matter_type: tenant_housing
+  must_cite_sources: true
+  forbidden_claims:
+    - 'you will definitely win'

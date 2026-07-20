@@ -1,0 +1,322 @@
+# Intake Desk legal self-help corpus manifest
+# Educational digests with canonical source attribution — not scraped copies.
+
+documents:
+  - id: or-tenant-rights-overview
+    title: Oregon Tenant Rights — Overview
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-tenant-rights-overview.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [overview, tenant_rights, orla]
+    notes: Digest of ORLA Chapter 90 fundamentals; verify local ordinances.
+
+  - id: or-notice-types
+    title: Oregon Landlord Notice Types for Termination and Rent Increases
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-notice-types.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [notices, termination, rent_increase]
+    notes: Covers nonpayment, for-cause, and no-cause notice frameworks.
+
+  - id: or-habitability-repairs
+    title: Habitability, Repairs, and Tenant Remedies in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-habitability-repairs.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [habitability, repairs, repair_and_deduct]
+    notes: Includes repair-and-deduct procedure overview and documentation tips.
+
+  - id: or-illegal-lockout
+    title: Illegal Lockouts and Self-Help Evictions in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-illegal-lockout.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [lockout, self_help_eviction, utilities]
+    notes: Emphasizes court-order requirement before removal.
+
+  - id: or-security-deposits
+    title: Oregon Security Deposit Rules and Move-Out Accounting
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-security-deposits.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [security_deposit, move_out, accounting]
+    notes: Covers 31-day accounting rule and wear-and-tear distinctions.
+
+  - id: or-retaliation-discrimination
+    title: Retaliation and Fair Housing Protections for Oregon Tenants
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-retaliation-discrimination.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [retaliation, fair_housing, accommodations]
+    notes: Cross-references federal and Oregon fair housing frameworks.
+
+  - id: or-fed-court-process
+    title: Oregon Forcible Entry and Detainer (FED) Eviction Court Process
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-fed-court-process.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [fed, court_process, eviction]
+    notes: Oregon Judicial Department self-help materials are primary references.
+
+  - id: or-deadlines-stays
+    title: Eviction Deadlines, Stays, and Post-Judgment Timing in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-deadlines-stays.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [deadlines, stays, writ]
+    notes: Calendar-driven guidance; county court rules may vary.
+
+  - id: or-roommate-subtenant
+    title: Roommates, Subtenants, and Joint Tenancy in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-roommate-subtenant.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [roommates, subtenants, joint_liability]
+    notes: Distinguishes co-tenant, master tenant, and unauthorized occupant roles.
+
+  - id: or-subsidized-housing
+    title: Subsidized Housing Rights — Section 8, Public Housing, and Oregon Context
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-subsidized-housing.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [section_8, public_housing, vawa]
+    notes: Layered federal program rules apply in addition to ORLA.
+
+  - id: or-documentation-checklist
+    title: Documentation Checklist for Oregon Tenant Disputes and Eviction Defense
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-documentation-checklist.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [documentation, evidence, checklist]
+    notes: OSB public info resources supplement Oregon Law Help materials.
+
+  - id: or-eviction-basics
+    title: Oregon Eviction Basics — From Notice to Possession
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-eviction-basics.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [eviction, overview, fed]
+    notes: High-level stage map from notice through sheriff writ.
+
+  - id: ftc-debt-collection-comms
+    title: Communicating With Debt Collectors — Federal Consumer Protections
+    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/ftc-debt-collection-comms.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [fdcpa, communications, cease_contact]
+    notes: FTC and CFPB public education on collector contact rules.
+
+  - id: ftc-debt-validation
+    title: Debt Validation and Disputing Collection Accounts
+    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/ftc-debt-validation.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [validation, dispute, fdcpa]
+    notes: Emphasizes 30-day written dispute window after validation notice.
+
+  - id: ftc-credit-reporting
+    title: Credit Reporting Rights Under the Fair Credit Reporting Act
+    source_url: https://www.consumer.ftc.gov/articles/how-dispute-errors-your-credit-report
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/ftc-credit-reporting.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [fcra, credit_report, dispute]
+    notes: AnnualCreditReport.com is the authorized free report source.
+
+  - id: debt-wage-garnishment
+    title: Wage Garnishment and Bank Levies — Consumer Debt Basics
+    source_url: https://www.consumer.ftc.gov/
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-wage-garnishment.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [garnishment, levy, exemptions]
+    notes: State exemption rules may provide additional protections beyond federal caps.
+
+  - id: debt-lawsuit-summons
+    title: Responding to a Debt Collection Lawsuit and Summons
+    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-lawsuit-summons.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [lawsuit, summons, answer]
+    notes: Default judgment prevention is primary educational goal.
+
+  - id: debt-medical
+    title: Medical Debt — Collection, Credit Reporting, and Consumer Options
+    source_url: https://www.consumer.ftc.gov/
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-medical.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [medical_debt, charity_care, billing]
+    notes: CFPB medical debt and credit reporting guidance is a related primary source.
+
+  - id: debt-student-vs-private
+    title: Federal Student Loans vs Private Student Loans — Collection Differences
+    source_url: https://www.consumer.ftc.gov/
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-student-vs-private.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [student_loans, federal, private]
+    notes: StudentAid.gov is canonical for federal loan program rules.
+
+  - id: ftc-harassment-practices
+    title: Debt Collector Harassment and Prohibited Practices
+    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/ftc-harassment-practices.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [harassment, fdcpa, cfpb_reg_f]
+    notes: Documents prohibited conduct themes from FTC/CFPB enforcement materials.
+
+  - id: debt-settlements
+    title: Debt Settlement — Risks, Tax Effects, and Alternatives
+    source_url: https://www.consumer.ftc.gov/articles/debt-relief-or-bankruptcy
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-settlements.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [settlement, debt_relief, tax]
+    notes: FTC debt relief scam warnings apply to for-profit settlement marketing.
+
+  - id: debt-when-to-seek-help
+    title: When to Seek Help for Debt Problems
+    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-when-to-seek-help.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [legal_aid, self_help, escalation]
+    notes: LSC grantee locator helps find free civil legal aid by geography.
+
+  - id: benefits-denial-notice-anatomy
+    title: Anatomy of a Public Benefits Denial or Termination Notice
+    source_url: https://www.ssa.gov/myaccount/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-denial-notice-anatomy.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [denial_notice, ssa, medicaid, snap]
+    notes: General US public-benefits notice anatomy for multi-program orientation.
+
+  - id: benefits-appeal-windows
+    title: Appeal Deadlines and Administrative Hearing Windows
+    source_url: https://www.ssa.gov/appeals/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-appeal-windows.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [appeals, deadlines, fair_hearing]
+    notes: Program-specific deadlines on the notice control over this summary.
+
+  - id: benefits-evidence-reconsideration
+    title: Gathering Evidence for Benefits Reconsideration and Hearings
+    source_url: https://www.ssa.gov/disability/professionals/bluebook/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-evidence-reconsideration.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [evidence, reconsideration, alj_hearing]
+    notes: SSA-827 medical release is required for provider submissions to SSA.
+
+  - id: benefits-continuance-pending
+    title: Continued Benefits Pending Appeal and Aid Paid Pending
+    source_url: https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-continuance-pending.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [continuance, aid_pending, overpayment_risk]
+    notes: SNAP 10-day continuation requests are especially time-sensitive.
+
+  - id: benefits-overpayment
+    title: Public Benefits Overpayments — Notice, Collection, and Waiver
+    source_url: https://www.ssa.gov/overpayments/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-overpayment.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [overpayment, waiver, repayment]
+    notes: Fault and hardship standards differ by program and notice type.
+
+  - id: benefits-reading-determination
+    title: Reading SSA and Medicaid Determination Letters
+    source_url: https://www.ssa.gov/myaccount/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-reading-determination.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [determination, sequential_evaluation, medicaid]
+    notes: Distinguishes eligibility denials from prior-authorization medical denials.
+
+  - id: benefits-snap-medicaid-overview
+    title: SNAP and Medicaid — Eligibility Overview and Common Denial Reasons
+    source_url: https://www.fns.usda.gov/snap/recipient/eligibility
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-snap-medicaid-overview.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [snap, medicaid, oregon_health_plan]
+    notes: Oregon DHS administers state SNAP and OHP; income limits update annually.

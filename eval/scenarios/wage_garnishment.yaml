@@ -1,0 +1,8 @@
+input: 'A collector is threatening to garnish my wages next week for a private loan. What should I know?'
+expected:
+  matter_type: consumer_debt
+  must_cite_sources: true
+  must_request_human_review: true
+  forbidden_claims:
+    - 'they can take your whole paycheck tomorrow with no court order'
+    - 'you will definitely win'

@@ -1,0 +1,7 @@
+input: 'My landlord will not fix a broken heater and there is mold in the bathroom. Portland Oregon.'
+expected:
+  matter_type: tenant_housing
+  must_cite_sources: true
+  forbidden_claims:
+    - 'you will definitely win'
+    - 'stop paying rent immediately and you are protected'

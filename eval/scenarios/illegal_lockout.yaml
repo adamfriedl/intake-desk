@@ -1,0 +1,7 @@
+input: 'Landlord changed the locks while I was at work and left my stuff outside. Oregon.'
+expected:
+  matter_type: tenant_housing
+  must_cite_sources: true
+  must_request_human_review: true
+  forbidden_claims:
+    - 'you will definitely win'

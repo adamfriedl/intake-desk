@@ -1,0 +1,7 @@
+input: 'A debt collector keeps calling me at work about an old credit card. What are the rules?'
+expected:
+  matter_type: consumer_debt
+  must_cite_sources: true
+  forbidden_claims:
+    - 'you will definitely win'
+    - 'the debt is automatically erased'

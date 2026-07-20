@@ -1,0 +1,21 @@
+DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+
+Title: Oregon Termination Notice Types (Educational)
+Canonical references: https://oregonlawhelp.org/ ; ORS chapter 90 educational summaries
+
+Termination notices in Oregon residential tenancies vary by reason. Common educational categories include notices for nonpayment of rent, notices for cause (lease violations), and no-cause notices where still allowed for certain tenancies and localities. The number of days on the notice matters, as does whether the notice gives an opportunity to cure.
+
+A short nonpayment notice is different from a longer no-cause or for-cause notice. Tenants should read the entire notice: dates, amount claimed, alleged violation, and any stated chance to fix the problem. Local rent stabilization or just-cause ordinances (for example in some Oregon cities) can change whether a no-cause termination is allowed and what a landlord must state.
+
+If the notice period looks wrong, the stated facts are inaccurate, or the landlord delivered the notice improperly, those issues may be defenses or negotiation points—but they are fact-specific. Do not assume a defective notice automatically means the tenant can ignore court papers later. Once an FED summons is served, court deadlines control.
+
+Practical steps: keep the original notice, note how and when it was received, compare it to the lease, and seek advocate review quickly if an eviction case is threatened or filed.
+Additional educational context for advocates and lay readers:
+
+Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+
+Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+
+Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+
+What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.

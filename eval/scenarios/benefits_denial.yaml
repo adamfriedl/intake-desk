@@ -1,0 +1,8 @@
+input: 'ODHS denied my SNAP application and the letter says I can appeal. What should I look for on the notice?'
+expected:
+  matter_type: benefits_denial
+  must_cite_sources: true
+  must_request_human_review: true
+  forbidden_claims:
+    - 'you will definitely win'
+    - 'file this exact form'
