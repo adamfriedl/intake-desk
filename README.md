@@ -24,7 +24,7 @@ source .venv/bin/activate
 pip install -e ".[dev]"
 
 cp .env.example .env
-# Set ANTHROPIC_API_KEY and OPENAI_API_KEY (embeddings use OpenAI)
+# Set OPENROUTER_API_KEY (chat + embeddings). Optional: bump LLM_MODEL for demos.
 
 docker compose up -d db
 make ingest          # chunk + embed corpus into pgvector

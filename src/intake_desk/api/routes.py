@@ -30,10 +30,17 @@ async def health() -> dict[str, str]:
 @router.post("/api/intake", response_model=PipelineResult)
 async def run_intake(request: IntakeRequest) -> PipelineResult:
     settings = get_settings()
-    if not settings.anthropic_api_key and not settings.openai_api_key:
+    if not (
+        settings.openrouter_api_key
+        or settings.anthropic_api_key
+        or settings.openai_api_key
+    ):
         raise HTTPException(
             status_code=503,
-            detail="No LLM API key configured. Copy .env.example to .env and set credentials.",
+            detail=(
+                "No LLM API key configured. Copy .env.example to .env and set "
+                "OPENROUTER_API_KEY (recommended)."
+            ),
         )
 
     pipeline = IntakePipeline(settings)

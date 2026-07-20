@@ -23,5 +23,6 @@ python3 -m py_compile $(find src eval -name '*.py' 2>/dev/null)
 
 ## Gotchas
 
-- Needs `ANTHROPIC_API_KEY` / `OPENAI_API_KEY` in `.env` for live LLM/embeddings — keep gitignored.
+- Needs `OPENROUTER_API_KEY` in `.env` for live LLM/embeddings (OpenAI-compatible via OpenRouter) — keep gitignored.
+- Optional: `ANTHROPIC_API_KEY` / `OPENAI_API_KEY` if you switch `LLM_PROVIDER`.
 - Don't present placeholder-corpus eval scores as production-ready metrics.
