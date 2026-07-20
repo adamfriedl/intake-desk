@@ -10,12 +10,52 @@ Also note: household members, subsidy status, disability-related needs, domestic
 Do not alter documents. Keep originals safe and provide copies when possible. A clear chronology (date → event → who was involved) reduces intake friction.
 
 This checklist is educational. It does not create a privilege log or replace advocate judgment about what is relevant.
-Additional educational context for advocates and lay readers:
+Strong housing intake begins with a complete document packet and a clear timeline. Start with identity of parties: legal names of tenants, landlord or management company, property address, and unit number. Note subsidy status, domestic violence concerns, disability accommodations needed, and preferred language for communication.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Core lease documents include the original lease, all renewals, addenda (pet, parking, smoking, roommate rules), and move-in condition reports. If the lease is missing, request a copy from the landlord in writing and note the request date. Oral lease terms may exist for some provisions but are harder to prove.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Every notice received deserves its own folder: termination notices, rent increase notices, entry notices, and cure-or-quit letters. Preserve envelopes showing postmarks. Photograph notices delivered by posting on the door. Record who handed you a notice and when.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Payment records prove rent compliance: canceled checks, money order receipts, bank transfer confirmations, rent receipt books, and ledger printouts from online portals. If paying cash, receipt culture matters enormously—without receipts, nonpayment claims become he-said-she-said.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Repair and habitability evidence includes dated photos and videos, written repair requests, email threads, text messages, code inspection orders, and contractor estimates. Weather screenshots can support heat failure timing in winter.
+
+Court papers require immediate highlighting of deadlines: summons, complaint, motions, stipulations, judgments, and writ notices. Never staple over text; scan or photograph every page.
+
+Communication logs help advocates: who said what, when, and by what channel. After phone calls, send a confirming email summarizing the conversation. Save voicemail when possible.
+
+Personal context flags change strategy: pregnancy, newborn, elderly resident, medical equipment requiring electricity, school enrollment for children, and imminent homelessness. These do not automatically win cases but affect urgency and available resources.
+
+Organize chronologically: "2025-03-01: moved in; 2025-11-15: emailed about leak; 2025-11-20: landlord replied; 2025-12-01: 72-hour notice posted." One page timelines save hours in advocate review.
+
+Redaction before sharing: mask Social Security numbers, bank account numbers, and children's full names in public filings when possible. Keep unredacted copies for your advocate.
+
+This checklist is educational. Missing documents should not delay seeking help—advocates can often subpoena or request records later if deadlines allow.
+Digital preservation: export text message threads, email folders, and portal screenshots to PDF with visible timestamps. Cloud storage backup prevents phone loss from destroying evidence.
+
+Witness list with phone numbers for neighbors who saw lockout or habitability conditions—advocates may contact with permission.
+
+Insurance renter policies and claims related to theft or fire damage intersect deposit and habitability disputes—include policy declarations if relevant.
+
+Prior landlord references and rental application copies help disprove alleged damages claimed on deposit statement.
+
+Subpoena preparation: organize labeled folders by document type before advocate requests production—speeds court preparation if case proceeds.
+
+Sensitive document handling: domestic violence survivors may need separate secure email for advocate communication if abuser monitors devices—note safety concern in intake.
+USB drive or cloud folder labeled with case number for advocate—organize before appointment to maximize limited consult time.
+
+Redact SSN on copies for self-help filing; provide full SSN to advocate privately on intake form.
+
+Photos geotagged and dated automatically if smartphone—disable if safety concern with abuser tracking location metadata.
+
+Envelope photos showing postmark date for notice timing disputes—keep physical envelopes until case resolved.
+
+Ledger spreadsheet: date, event, document reference number—update after each new document arrives.
+
+Interpreter need note on intake form if English not primary language—request translated notices from agency or court.
+
+Power of attorney or guardianship papers if someone else assisting elderly tenant—bring court order appointing guardian.
+
+Bank statements showing rent payment pattern when landlord claims nonpayment—highlight relevant lines.
+
+Subpoena target list for witnesses: neighbor, code inspector, repair contractor—collect contact info early.

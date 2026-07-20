@@ -1,0 +1,14 @@
+DISCLAIMER: Educational routing digest for Intake Desk triage. Not legal advice.
+
+Title: Criminal Matters — Out of Scope for Civil Self-Help Intake
+Canonical references: https://www.oregon.gov/osbar/ ; public defender system information
+
+Intake Desk civil self-help corpus covers housing, consumer debt, and public benefits—not criminal defense, criminal record expungement strategy, parole, probation violations, or traffic citations requiring court appearance.
+
+If a user mentions arrest, criminal charges, police investigation, warrant, or jail time, route to criminal defense resources: Oregon public defender offices for qualifying defendants, court-appointed counsel at arraignment, and bar referral for retained criminal attorneys.
+
+Civil-criminal overlap flags for human handoff: domestic violence criminal case plus housing need; debt collection lawsuit plus pending fraud charges; benefits fraud allegations with criminal investigation.
+
+Do not provide criminal procedural advice or suggest users represent themselves in criminal court based on this corpus.
+
+Contrast phrase for refusal training: "We help with civil housing, debt, and benefits education—not criminal cases."

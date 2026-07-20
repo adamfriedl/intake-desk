@@ -10,12 +10,27 @@ A short nonpayment notice is different from a longer no-cause or for-cause notic
 If the notice period looks wrong, the stated facts are inaccurate, or the landlord delivered the notice improperly, those issues may be defenses or negotiation points—but they are fact-specific. Do not assume a defective notice automatically means the tenant can ignore court papers later. Once an FED summons is served, court deadlines control.
 
 Practical steps: keep the original notice, note how and when it was received, compare it to the lease, and seek advocate review quickly if an eviction case is threatened or filed.
-Additional educational context for advocates and lay readers:
+Nonpayment notices are among the most time-sensitive documents a tenant receives. Educational materials describe notices that give a short period—commonly on the order of days rather than months—to pay the claimed rent or face termination proceedings. The notice should state the amount due, the period it covers, and where to pay. Tenants should compare the claimed balance to their own records. Partial payments, late fees, and utility charges billed as rent may be disputed depending on the lease and facts. Paying under protest while documenting a disagreement is a strategy advocates sometimes discuss, but it is fact-specific and should not be attempted without advice when court papers are imminent.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+For-cause notices allege a lease violation other than nonpayment—unauthorized occupants, noise complaints, unauthorized pets, property damage, or illegal activity are common examples. Many for-cause notices include a cure period allowing the tenant to fix the problem if fixable. Read whether the notice is curable or non-curable. A non-curable notice may apply to serious or repeated violations depending on statute and lease language. Document compliance efforts: if you cured the issue within the stated time, keep proof (photos, witness statements, written confirmation from the landlord).
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+No-cause notices end a month-to-month tenancy without alleging fault, where still permitted. Oregon law and local ordinances have changed substantially in recent years; some tenancies now require landlord-stated reasons or longer notice periods. First-year tenancies, fixed-term leases, and properties in cities with just-cause rules may limit no-cause terminations. A no-cause notice that fails to meet current length or content requirements may be defective, but defective notices do not always stop a court case—tenants must still respond to summonses.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Rent increase notices are separate from termination notices but share timing rules. State and local law may require minimum advance notice before an increase takes effect, and some jurisdictions cap the size or frequency of increases. A rent increase delivered improperly may not be enforceable on the claimed date. See the companion digest on rent increases for more detail.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Service and delivery matter. Notices may be delivered by personal service, first-class mail, or posting depending on circumstances and lease terms. Note the date and method received. A notice backdated or received after the cure period began can affect rights. Keep the envelope and any certificate of mailing.
+
+When a notice period expires without resolution, landlords often file a forcible entry and detainer (FED) case. The notice stage and court stage overlap in importance: defects in the notice may be raised in court, but missing court deadlines while debating the notice can still produce a default judgment. Calendar both the notice expiration and any court appearance immediately.
+
+Escalate for advocate review when: the notice period seems wrong for your city and tenancy length; the notice claims rent you already paid; the stated violation is retaliation for a repair complaint; the notice targets you after reporting domestic violence; or you receive a voucher termination alongside a landlord notice. Bring the notice, lease, payment proofs, and a timeline to intake.
+COVID-era moratorium and emergency programs expired but older notices may reference them—evaluate current law not outdated notice forms.
+
+Combined notice alleging multiple grounds—nonpayment plus violation—requires reading each ground separately for cure options.
+
+Landlord acceptance of partial rent after notice may waive continuation of termination in some circumstances—document payments and landlord receipts carefully.
+
+Attorney fee and cost language on notices may not be collectible unless lease and judgment support—do not panic at fee threats on notice alone.
+
+Service on holiday or Sunday may affect notice period calculation depending on delivery method—note exact delivery day of week.
+
+Translation of notice for LEP tenants—if lease is English-only but tenant limited English, advocate may evaluate notice comprehension and fair housing language access themes.

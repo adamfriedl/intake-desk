@@ -10,12 +10,29 @@ Educational best practice is to notify the landlord of needed repairs in writing
 Some tenants consider rent remedies or relocation options after proper notice; those remedies are technical and easy to mishandle. Withholding rent without following required procedures can create nonpayment risk. This digest does not prescribe a DIY rent-withholding strategy.
 
 If the landlord retaliates after a good-faith repair complaint—such as sudden termination notices or sharp rent increases—see the retaliation digest and seek advocate review. Tenants with disabilities may also have reasonable accommodation pathways for modifications related to accessibility.
-Additional educational context for advocates and lay readers:
+Habitability in Oregon generally means the rental unit is fit for human occupancy with working essential systems. Educational summaries commonly list heat, plumbing, hot and cold water, weatherproofing, and safe electrical systems as core examples. Mold from ongoing leaks, rodent or insect infestations that the landlord failed to address after notice, and broken steps or railings that create safety hazards may also qualify depending on severity and duration. Peeling paint, minor carpet wear, or slow drains that still function may not rise to the same level, though chronic minor issues can accumulate into a habitability problem over time.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+The repair request process should almost always begin in writing. Email or letter is fine if you keep a copy. Describe the problem specifically, note when it started, and state that you are requesting repair. For emergencies—no heat when outside temperatures are dangerous, gas odors, flooding, or exposed wiring—call the landlord immediately and also notify local code enforcement or utility providers if safety requires it. After the call, send a written summary of what you reported and when.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Oregon law provides several potential remedies after proper notice and reasonable time, including repair-and-deduct in qualifying circumstances and rent withholding in narrow situations. These remedies are technical: wrong timing, insufficient notice, or deducting too much can expose a tenant to nonpayment termination. Do not withhold rent or deduct without individualized advocate advice unless you fully understand the statutory steps and risks.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Repair-and-deduct generally requires written notice, a waiting period that varies by urgency, and sometimes a second notice if the landlord fails to act. Keep receipts for materials and labor if you hire someone. The deducted amount must be reasonable. Some tenants use municipal code enforcement inspections to create an objective record of violations; code orders can support habitability claims but do not automatically win an eviction case.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+If conditions make the unit uninhabitable, relocation or lease termination options may exist in extreme cases, but "I want to leave" is not the same as a legally supported exit without liability for remaining rent. Document everything if you relocate under pressure: photos, hotel receipts, medical visits related to conditions, and communications with the landlord.
+
+Retaliation after habitability complaints is a separate but linked issue. If a termination notice or rent increase arrives soon after a repair request, flag timing for advocate review under Oregon anti-retaliation themes and fair housing rules if disability-related modifications are involved.
+
+Common documentation for habitability intake: dated photos and videos, written repair requests and responses, code inspection reports, medical notes if health is affected, weather data for heat failures, and receipts for temporary fixes you paid for. Escalate immediately when children, elderly household members, or disabled residents face no heat, no water, or active sewage backup.
+
+This digest does not authorize unauthorized repairs that violate the lease, nor does it predict whether a judge will find habitability sufficient to defeat a nonpayment case. Those outcomes depend on evidence and local court practice.
+Mold from landlord-failed leak repair supports habitability claim—document leak history and prior repair requests before mold appeared.
+
+Pest infestation linked to building-wide issues not tenant cleanliness—avoid accepting blame in writing without advocate review.
+
+Seasonal heat requirements—Oregon educational materials emphasize adequate heat in cold months; portable space heaters supplied by tenant do not cure landlord heating system failure.
+
+Water heater failure affects habitability and health—same-day escalation when no hot water for sanitation needs.
+
+Tenant-caused damage versus wear: cigarette burns and hole punches distinguishable from nail holes and carpet wear in deposit and habitability overlap cases.
+
+Repair and deduct dollar limits and notice count requirements must be followed precisely—exceeding statutory cap creates excess deduction risk.

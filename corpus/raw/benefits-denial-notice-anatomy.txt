@@ -8,12 +8,50 @@ A denial or termination notice typically states what benefit was decided, the ef
 Notices can be dense. Highlight deadlines in a different color and copy the letter. If the reason is unclear, that itself is an advocate issue.
 
 Missing an appeal deadline can end the path to a hearing. High urgency when deadlines are near.
-Additional educational context for advocates and lay readers:
+A benefits notice is a legal document controlling appeal rights. Locate the heading identifying the agency and program—Oregon Department of Human Services for SNAP and Medicaid (Oregon Health Plan), Social Security Administration for SSI/SSDI, or unemployment for Oregon Employment Department. The notice type may read "Notice of Decision," "Notice of Action," "Denial," or "Termination."
 
-Public benefits cases are paperwork-deadline cases. A well-explained story without a timely appeal can still lose the pathway to a hearing. Intake should capture the notice date, the stated deadline, the program name, and whether the household requested continuation of benefits pending appeal when that option exists.
+Effective date tells when benefits stop or change. Retroactive adjustments may create overpayment claims separately. Compare effective date to when you actually received benefits and reported changes.
 
-Verification lists deserve a literal reading. Agencies often deny or close cases for missing documents even when eligibility might otherwise exist. Submitting partial packets early, with a cover letter listing what is enclosed and what is still coming, is a common educational practice—subject to program rules.
+Reason codes or narrative sections explain the agency's factual and legal basis. Codes like "failed to provide verification," "income over limit," or "not disabled under rules" point to different response strategies. If the reason is vague, that itself supports advocate involvement.
 
-Intersecting issues are common: disability accommodations for notices and hearings, language access, domestic violence confidentiality, and homelessness can all affect how a household receives mail and complies with requests. Flag those facts for advocates rather than treating the case as a pure math eligibility problem.
+Appeal rights paragraphs state deadline, office to contact, and form name if any. Circle the appeal deadline and calculate from receipt date if rules use "within X days of mailing" versus "of receipt." When ambiguous, file early.
 
-This corpus does not compute benefit budgets or guarantee reinstatement. It supports grounded explanations of notice anatomy, appeal windows, evidence, overpayments, and program overview language for SNAP and Medicaid-style denials.
+Benefit amount and household composition tables show who is covered and calculated income deductions. Errors in math or household members are common appeal grounds.
+
+Continued benefits pending appeal language may require a separate checkbox request within a shorter window than the appeal itself—see continuance digest.
+
+Attachments may include verification checklists, prior correspondence, or medical decision excerpts. Read every page including envelopes and inserts.
+
+SNAP notices reference federal SNAP rules and Oregon administrative rules. Medicaid notices reference MAGI eligibility, retroactive coverage options, and renewal periods. SSA notices reference Title II (SSDI) or Title XVI (SSI) with different appeal forms.
+
+If notice arrived late due to mail problems, document address changes reported to the agency. Homeless clients may use alternative mailing addresses through authorized representatives.
+
+Escalate when: deadline within 7 days; termination during medical treatment; combined SNAP and Medicaid adverse actions; or notice language you cannot understand despite translation needs.
+
+Bring the complete notice packet, prior approval letters, income proofs, and reported-change confirmations to intake.
+Barcode and case numbers on notices must match on appeal forms—transcription errors delay processing. Copy numbers exactly from notice header.
+
+Multiple household members with individual Medicaid eligibility in same case may receive separate decision paragraphs—appeal only affected individuals when partial denial.
+
+Sanctions for voluntary quit or fraud allegations have separate appeal paths and shorter deadlines in UI and SNAP—identify sanction type before generic fair hearing request.
+
+Change report acknowledgments are not denial notices but may precede adverse action—keep receipts of reported changes to rebut later overpayment or denial.
+
+Third-party mail forwarding: if notice mailed to old address after you reported move, good cause themes may apply—document address change submission date.
+
+Notice font and language access: if vital appeal rights appear only in English insert but household requested Spanish, flag civil rights and language access themes for advocates.
+Notice header case number must appear on every appeal form and fax cover sheet—transcription errors delay hearing scheduling.
+
+Multiple programs on one notice: appeal SNAP paragraph separately from Medicaid paragraph if partial adverse action.
+
+Sanction notices for SNAP work program failure have different appeal path than eligibility denial—identify sanction type.
+
+Overpayment notice attached to denial—appeal overpayment separately if checkbox on notice allows.
+
+Change report acknowledgment not same as denial but precedes adverse action—keep receipt with timestamp.
+
+Third-party mail: good cause if notice mailed old address after reported move—document ONE address change submission.
+
+Language access: if appeal rights only in English on Spanish notice body, flag civil rights issue for advocate.
+
+Effective date retroactive reduction creates overpayment risk—calculate months affected before accepting without appeal.

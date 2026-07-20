@@ -10,12 +10,46 @@ Educational red flags for escalation include: proposed voucher termination, publ
 Deadlines in program notices can be short. Keep every housing authority letter. Do not assume private-market advice fully applies.
 
 This corpus provides only a pointer: subsidized housing matters should be routed to advocates familiar with HUD and local housing authority practice.
-Additional educational context for advocates and lay readers:
+Subsidized housing combines three legal layers: the lease with the landlord, Oregon landlord-tenant law where applicable, and federal or state program regulations. Housing Choice Vouchers (Section 8), public housing, project-based subsidies, and Oregon Housing and Community Services programs each have distinct termination, grievance, and notice requirements. Advice that works for a private market tenancy may be wrong for a voucher household.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Housing authority grievance procedures often require a conference or informal hearing before termination of assistance in many situations. Deadlines on housing authority letters can be short—sometimes ten days or less. Missing a grievance request may waive administrative review even if ORLA notice rules were also violated.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Landlord-initiated FED cases can proceed while the housing authority separately proposes voucher termination. A tenant may need advocates for both tracks. Program rules may require the landlord to give the housing authority copies of notices; verify whether proper notice was given to all parties.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Household composition rules require reporting all members and income changes. Failure to report a new adult resident is a common voucher termination reason. Disability accommodations may modify inspection standards or unit size requirements.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Violence Against Women Act (VAWA) protections apply to many federally assisted tenancies, allowing survivors to certify abuse, bifurcate leases from abusers, and avoid termination based on criminal activity of the abuser in qualifying cases. VAWA forms and deadlines are specialized—escalate immediately when domestic violence intersects with subsidy termination.
+
+Reasonable accommodation requests for disabilities apply in subsidized housing with HUD involvement. A housing authority cannot apply neutral rules in a way that discriminates against disabled tenants.
+
+Inspection failures (HQS failures) can lead to abatement of housing assistance payments and pressure on tenants to move. Distinguish landlord repair responsibility from tenant-caused damage during inspections.
+
+Documentation: the lease, housing authority correspondence, voucher contract if available, rent calculation sheets, inspection reports, and all termination or grievance notices. Escalate all proposed voucher terminations and dual FED plus subsidy cases to specialized advocates.
+
+Portability moves vouchers between jurisdictions with timing rules. Failed portability paperwork can look like program abandonment. This digest orients intake; it does not compute total tenant payment or housing authority obligations.
+Portability of vouchers when moving between Oregon counties requires timing coordination with receiving and sending housing authorities—missed briefing appointments may terminate voucher.
+
+Family self-sufficiency programs and earned income disallowances temporarily ignore income increases for voucher calculation—ask housing authority if FSS enrollment available.
+
+Project-based Section 8 units tie subsidy to building not portable voucher—termination from project-based unit differs from tenant-based voucher move.
+
+Public housing grievance timelines shorter than private market FED—calendar housing authority deadlines separately from any landlord court case.
+
+Mainstream vouchers for non-elderly disabled persons bridge institutional and community housing—specialized intake when institutional discharge planned.
+
+HQS inspection failures for voucher units require landlord repair before payment abates—tenant should not agree to pay full market rent during abatement without advocate advice.
+Housing authority informal hearing before voucher termination—request in writing within deadline on termination notice.
+
+Landlord lease-up with voucher requires housing authority inspection before contract—move-in without inspection risks abatement.
+
+Family unreported member discovery at recertification may trigger back rent and voucher termination—correct household composition proactively.
+
+Portability briefing appointment missed may terminate voucher—calendar housing authority appointments as court dates.
+
+Project-based versus tenant-based subsidy portability—confirm subsidy type before planning move.
+
+Mainstream voucher for non-elderly disabled institutional discharge—specialized referral from discharge planner.
+
+Public housing grievance panel hearing less formal than court—still require evidence and timely grievance filing.
+
+VAWA certification to housing authority and landlord simultaneously when domestic violence affects subsidy—use HUD form 5382 themes.

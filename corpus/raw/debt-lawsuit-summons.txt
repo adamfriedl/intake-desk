@@ -8,12 +8,56 @@ Being served with a summons and complaint in a debt collection lawsuit starts a 
 Educational steps: read everything, calendar the deadline, preserve account records, and seek legal aid or a lawyer consultation. Defenses can include wrong amount, wrong person, lack of standing, or improper service—but they must be raised properly.
 
 Do not rely on collector phone promises that “we will dismiss” unless confirmed in writing and verified with the court. High urgency; human review recommended.
-Additional educational context for advocates and lay readers:
+A debt collection lawsuit begins when the plaintiff files a complaint and serves you with a summons stating how long you have to respond—commonly 30 days in Oregon circuit court for many civil matters, but verify on your papers and ORCP rules. Missing the deadline typically allows the plaintiff to seek default judgment for the claimed balance plus interest, fees, and costs.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+Read the complaint for: plaintiff name (original creditor or debt buyer), account number, claimed amount, interest rate, attorney fees clause, and factual allegations you admit or deny. Debt buyers must often prove they own the debt and that you owe the specific amount—a chain of assignment may be required.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+An answer or appropriate response denies or admits allegations and raises defenses. Common debt defenses include: wrong person (identity); account paid or settled; amount incorrect; statute of limitations expired; lack of standing by debt buyer; failure of consideration; and improper service. Affirmative defenses must often be pleaded specifically depending on court rules.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Improper service may invalidate default if you truly never received papers. Service by posting or alternative methods has requirements; compare your experience to what the plaintiff claims in proof of service.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+Discovery and trial: some debt cases resolve at summary judgment if you do not respond; others proceed to trial where the collector must prove the debt. Low-dollar cases still deserve answers because default is expensive.
+
+Settlement during litigation should be written, specify dismissal with prejudice if paid, and require filed stipulations when possible. Verbal "we'll drop it" promises without court confirmation are risky.
+
+Counterclaims under FDCPA or state consumer law may exist if collector misconduct is documented—advocate evaluation required.
+
+After judgment, remedies expand to garnishment and liens. Preventing judgment is cheaper than reversing garnishment.
+
+Oregon small claims and circuit court procedures differ by amount and complexity. Some debt cases land in justice courts depending on claim size and county.
+
+Free legal aid and pro bono clinics often prioritize consumer defense when income qualifies. Courthouse self-help centers may provide form templates—select carefully for debt cases.
+
+Escalate all summonses as high urgency. Bring every page served, envelope if mailed, and any collection letters predating the suit.
+
+This digest does not draft your answer or predict win probability.
+Venue and court name on summons must match where you live or contract requires— improper venue may be waivable defense if raised.
+
+Counter-suit against collector for FDCPA violations rare for pro se but advocate evaluation worthwhile when harassment documented contemporaneously.
+
+Mediation programs in some courts resolve debt cases for payment plan without full trial—understand whether mediation attendance mandatory.
+
+Judgment proof status—no wages or assets subject to collection—may affect settlement leverage but does not eliminate need to answer summons.
+
+Post-judgment interest accrues on unpaid judgment balance—settlement after judgment should address interest component explicitly.
+
+Certificate of service on plaintiff filings helps you track case timeline—request copy of all plaintiff filings from court clerk as case progresses.
+Oregon circuit court answer deadline commonly 30 days from service—verify on summons face for your court.
+
+Small claims debt cases faster timeline—some counties 14 days to answer or appear—read notice carefully.
+
+Debt buyer plaintiff must prove assignment chain—request documents in discovery or at trial if case proceeds.
+
+Affirmative defense statute of limitations in answer—do not omit if debt time-barred.
+
+Improper service: if never served, default may be set aside—motion to set aside default time-limited.
+
+Mediation mandatory some courts before trial—attend or risk default if court ordered.
+
+Stipulated judgment for possession versus money—debt case usually money only; distinguish from FED.
+
+Post-answer discovery: request account statements and contract from plaintiff—many debt buyers lack documents.
+
+Counterclaim FDCPA rare pro se—legal aid evaluation if harassment documented.
+
+Judgment interest ORS statutory rate accrues—settlement should address principal and interest separately.

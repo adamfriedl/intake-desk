@@ -8,12 +8,50 @@ FTC educational materials describe collection practices that can be illegal: rep
 Consumers who experience these tactics should document incidents and consider complaints to the FTC, CFPB, and state attorneys general, in addition to seeking legal advice about private remedies. Documentation quality matters more than volume of adjectives.
 
 Threats of arrest for consumer debt are a major red flag. Escalate for advocate review.
-Additional educational context for advocates and lay readers:
+Harassment under federal debt collection law includes conduct intended to abuse, oppress, or harass any person. Educational materials list examples: repeated phone calls with intent to annoy; obscene or profane language; publishing debtor lists (except to credit bureaus in permitted ways); and calling without meaningful disclosure of identity.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+False or misleading representations are separate violations: claiming to be an attorney when not, misstating the amount owed, threatening actions that cannot legally be taken, and implying documents are not legal forms when they are. Collectors may not threaten wage garnishment before obtaining a judgment except in limited government-debt contexts.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Contact frequency and timing rules complement harassment themes. Calls before 8 a.m. or after 9 p.m. local time are generally prohibited unless you agree. Calls at work after you notify the collector that your employer prohibits them should stop.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Mini-Miranda warnings require collectors to disclose they are attempting to collect a debt and that information obtained will be used for that purpose. Failure to disclose in initial communications supports complaint documentation.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+CFPB Regulation F modernized many contact rules including voicemail content, email and text opt-outs, and limits on consecutive contact attempts. Older FTC educational summaries remain directionally correct but pair with current CFPB materials for detail.
+
+Document harassment contemporaneously: keep a call log with date, time, caller ID, representative name, and summary of statements. Save voicemails and texts. Screenshots of caller ID help. Witness statements from household members who overheard calls add support.
+
+Emotional distress alone does not always produce easy remedies, but pattern documentation supports regulatory complaints and some private actions where available. Advocates evaluate whether FDCPA or state law claims are viable.
+
+Harassment red flags requiring escalation: threats of arrest; collectors posing as police; contacts to your employer about the debt beyond location exceptions; calls to relatives repeatedly; or collectors ignoring written cease communication without permitted follow-up.
+
+Do not confuse harassment with legitimate lawsuit service. Process servers and court mail are not "collectors" in the FDCPA sense though they may feel threatening. Respond to court papers on deadline regardless of collector conduct.
+
+Reporting to CFPB and FTC creates administrative records; keep complaint confirmation numbers. State attorney general consumer divisions may also investigate patterns.
+
+This digest supports triage and documentation themes. It does not predict monetary damages or recommend litigation strategy.
+Attorney collectors must identify actual law firm and whether attorney reviewed account—misleading attorney branding violates educational summaries of prohibited conduct.
+
+Social media contact about debts to contacts or followers generally prohibited—save screenshots of improper social contact.
+
+Text message frequency after opt-out request documents Reg F violations—note each text timestamp after written opt-out.
+
+Collectors contacting after bankruptcy discharge may violate discharge injunction—notify bankruptcy attorney immediately with collector contact details.
+
+State mini-FDCPA laws in Oregon and elsewhere may cover creditors original collectors excluded from federal FDCPA—ask advocate about Oregon Unlawful Debt Collection Practices Act themes.
+
+Emotional harm documentation supports complaint narratives even when statutory damages uncertain—describe sleep loss, anxiety, and work interference factually without exaggeration.
+Reg F limited contact attempts per debt per day—log excessive calls across multiple days for pattern evidence.
+
+Voicemail mini-Miranda and debt details restrictions—collector leaving balance on family answering machine documents violation theme.
+
+Social media shaming about debt prohibited—screenshot posts tagging debtor publicly.
+
+False attorney threat: verify bar membership if collector claims law firm—report to state bar and CFPB.
+
+Contact after written cease except lawsuit notice—document each contact post-cease with date and method.
+
+Original creditor harassment may fall under Oregon UDCPA—ask advocate about state law when caller is bank not collector.
+
+Emotional distress diary factual entries support complaint narrative without legal conclusions.
+
+Class action and regulatory enforcement sometimes follows pattern complaints—individual complaint still worth filing.

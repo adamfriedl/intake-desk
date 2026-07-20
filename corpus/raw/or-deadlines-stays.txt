@@ -10,12 +10,50 @@ A “stay” generally means a temporary pause of enforcement. Whether a stay is
 Do not rely on informal promises that “the sheriff won’t come” without written confirmation and advocate advice. Utility shutoff threats, lockout threats, and court dates can overlap—track each separately.
 
 This digest flags deadline risk. It does not list a single statewide emergency stay form or promise a continuance.
-Additional educational context for advocates and lay readers:
+Housing disputes run on multiple overlapping clocks. Notice periods govern when a tenancy may end. Court answer deadlines govern whether a default judgment enters. Trial settings, mediation dates, writ issuance, and sheriff scheduling add more layers. A tenant focused only on the notice expiration may miss a court date that occurs earlier or later than expected. Build one master calendar with every date from every document.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Notice deadlines are usually measured from delivery or posting according to statute and lease. Court deadlines are usually measured from service of the summons. These are different events. A 72-hour nonpayment notice does not tell you the FED first appearance date—you must read the summons for that.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Stays of execution temporarily pause the sheriff from enforcing a writ of possession. Availability depends on local court rules, whether rent is paid into court, whether an appeal is pending, and sometimes seasonal or hardship policies. There is no statewide guarantee of a stay because you asked for more time. Some courts require a formal motion; others handle stays informally at the first appearance.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Continuances reschedule hearings but do not always stop enforcement if a judgment already entered. Tenants sometimes confuse a friendly landlord promise to "hold off the sheriff" with a legal stay. Without a court order or written filed agreement, enforcement can proceed.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Rent tender and cure periods have their own deadlines. Paying rent after a nonpayment notice may reinstate the tenancy if done correctly and within the notice window, but partial payment or late payment may not. Document every payment method and recipient.
+
+Appeals from FED judgments exist in some circumstances but are specialized and time-limited. Self-represented tenants often need same-week advocate assistance after an adverse judgment if they explore appeal.
+
+Overlapping emergencies complicate deadline tracking: a tenant facing writ enforcement who also receives a utility shutoff notice must prioritize safety, court, and housing stability simultaneously. Flag compound urgency for human triage.
+
+Practical tools: photograph every court paper and highlight dates in color; set phone reminders three days before each deadline; send court filings by a method that produces proof; keep copies of everything filed. If you cannot meet a deadline, contact legal aid before the date passes—not after.
+
+When to escalate: any deadline within 72 hours, sheriff notice posted on your door, or conflicting dates on notice versus summons. This digest does not promise a continuance or stay will be granted.
+Court holiday closures extend some filing deadlines under ORCP—verify whether your deadline falls on non-business day.
+
+Electronic filing timestamps control if court requires e-file—paper filers should use courthouse drop box before midnight deadlines where local rule allows.
+
+Payment into court registry to stay execution may require exact amount and proper caption—clerk rejection for technical defect wastes critical days.
+
+Sheriff writ posting on door starts final countdown—photograph writ and call advocate same day if not already represented.
+
+Landlord promise to cancel case if rent paid by Friday requires filed dismissal or written stipulation—verify case status on court docket online after payment.
+
+Appeal bonds may be required for stays pending appeal in some civil cases—FED appeals specialized; do not assume automatic stay without bond payment.
+Master calendar: notice expiration, answer due, trial, writ, sheriff date, utility shutoff threat, rental assistance appointment—one page visible on refrigerator.
+
+Court holiday extends some ORCP deadlines—verify if deadline falls Thanksgiving or Christmas week.
+
+Payment into registry to stay writ requires exact caption and amount—clerk rejection wastes days.
+
+Sheriff writ posted starts final countdown—photograph writ same day and call advocate.
+
+Landlord verbal promise to delay sheriff without court order unreliable—confirm case status on OJD online docket.
+
+Appeal bond may be required for stay pending appeal in some civil cases—FED appeal specialized.
+
+Continuance request before trial needs good cause—childcare, witness unavailable, advocate scheduling—request in writing if local rules require.
+
+Default set-aside motion deadline short after default entered—never ignore entry of default judgment mail.
+
+Rent tender cure period ends at specific time on last day—wire cutoff times matter for cure payment.
+
+Overlap: SNAP appeal deadline same week as FED appearance—prioritize court appearance but file SNAP appeal same day if possible.

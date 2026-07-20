@@ -1,0 +1,54 @@
+DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+
+Title: SSI and SSDI — Programs, Differences, and Denial Themes
+Canonical references: https://www.ssa.gov/ ; https://www.ssa.gov/disability/
+
+Social Security Disability Insurance (SSDI) pays benefits to disabled workers with sufficient recent work credits based on earnings history. Supplemental Security Income (SSI) pays benefits to aged, blind, or disabled people with limited income and resources regardless of work history. Both use disability standard evaluation but financial rules differ sharply.
+
+SSDI amounts depend on past earnings; Medicare eligibility follows after waiting period. SSI amounts are federally set with state supplements possible; Medicaid often links automatically in Oregon. Receiving SSDI may reduce SSI dollar-for-dollar in concurrent cases.
+
+Initial disability applications face high denial rates nationally; reconsideration and ALJ hearings are common next steps. Medical evidence and functional limitations drive outcomes more than diagnosis names alone.
+
+Work activity: substantial gainful activity limits apply; trial work periods exist for SSDI. Report all work to SSA promptly.
+
+Childhood disability and disabled adult child benefits have separate rules—escalate specialized cases.
+
+Overpayments and cessation after medical improvement follow strict appeal and continuation election deadlines—see companion digests.
+
+Documentation: SSA award letters, denial notices, work history, medical records, and SSA-827 releases.
+
+Escalate when: denial with no income replacement; cessation after years on benefits; concurrent SSI/SSDI math errors; or homelessness imminent.
+
+This digest does not determine disability status or file SSA applications.
+Work history documentation for SSDI includes Social Security earnings statements available online or by mail. Gaps in work credits may explain unexpected technical denials unrelated to medical disability.
+
+SSI resource limits count bank accounts, vehicles beyond one, and in-kind support in some cases—transfers below market rent from family may count as income. Report living arrangements accurately.
+
+Expedited disability determinations exist for certain terminal and CAL conditions—ask advocates about compassionate allowance list if diagnosis appears on SSA list.
+
+Representative payees manage benefits for beneficiaries unable to manage funds—payee misuse is a separate complaint pathway through SSA.
+
+Concurrent application for SSDI and SSI when work history uncertain allows SSA to evaluate both programs—denial of one does not always mean denial of both.
+
+Medicare Part B premiums for SSDI beneficiaries may be deducted from benefit checks—budget health insurance costs when calculating net income for housing and debt planning.
+Substantial gainful activity (SGA) amount updates annually—work earnings above SGA after trial work period may trigger continuing disability review cessation for SSDI.
+
+SSI living arrangement categories reduce payment if you live rent-free with others who provide food—report household changes promptly.
+
+Ticket to Work program offers vocational services without automatic benefit loss during trial work—ask SSA or vocational agency about ticket availability.
+
+Expedited reinstatement for SSI after brief work attempt that failed may restore benefits without full new application if within five years—specialized rules apply.
+
+Child SSI cases redetermine at age 18 with adult disability standard—expect review even if child disabled since birth.
+
+Representative payee annual reporting required—beneficiary may request direct payment if capable of managing funds.
+
+Medicare Part D low-income subsidy (Extra Help) reduces prescription costs for qualifying SSI recipients—apply through SSA or state.
+
+Concurrent SSDI plus SSI "windfall offset" and other interactions require advocate math—do not assume check amounts match friend's benefits.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.
+
+When intake mentions both SSI and SSDI, clarify which program denied or ceased benefits because appeal forms and continuation elections differ. SSDI cessation for medical improvement triggers strict 10-day election windows on some notices; missing the window forfeits continued checks during appeal even if the medical appeal might succeed later.
+
+Escalate for human advocate review whenever safety, court dates, or program appeal windows are involved. Educational digests help you ask better questions and organize facts; they do not replace case-specific advice from qualified counsel or accredited representatives familiar with current Oregon and federal rules.
+Verify all dollar limits, deadlines, and form numbers against the agency or court website active on your notice date.

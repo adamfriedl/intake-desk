@@ -8,12 +8,49 @@ Federal student loans and private loans follow different rules for repayment pla
 Educationally, borrowers should identify the loan type, servicer, and whether the loan is in default before choosing a response. Consolidation and rehabilitation concepts apply differently to federal loans than to credit cards or medical bills.
 
 Misrouting a federal loan problem as a generic FDCPA letter strategy can waste time. Seek specialized student-loan counseling or legal aid when default, disability discharge, or borrower-defense issues appear.
-Additional educational context for advocates and lay readers:
+Federal student loans are made or guaranteed under programs administered by the U.S. Department of Education with servicers like MOHELA, Nelnet, Aidvantage, and others. Private student loans come from banks, credit unions, or state agencies with contract terms closer to consumer loans. Identification: log into StudentAid.gov for federal loans; private loans appear on credit reports with private lender names.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+Federal loans offer income-driven repayment, deferment, forbearance, Public Service Loan Forgiveness, disability discharge, and closed-school discharge pathways unavailable on most private loans. Default on federal loans triggers administrative wage garnishment, tax refund offset, and loss of eligibility for further aid without necessarily requiring a private lawsuit first.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Private loan default typically leads to collections and lawsuits like credit card debt. Cosigners face full liability when primary borrowers stop paying. Refinancing federal into private loans forfeits federal protections permanently—a common educational warning.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Bankruptcy discharge of student loans requires undue hardship proof in a separate adversary proceeding— difficult but not impossible, especially for long-term disability in some cases. Most other unsecured debt discharges more routinely in bankruptcy chapter 7.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+Servicer errors—misapplied payments, wrong plan enrollment, inaccurate balance—should be documented through servicer ombudsman and federal student aid complaint systems.
+
+Loan rehabilitation after federal default can restore aid eligibility and remove default status from credit reports after successful payments. Private loans lack uniform rehabilitation.
+
+Parent PLUS loans are federal but repayment responsibility differs from student-borrowed loans. Consolidation merges federal loans but may affect forgiveness progress—verify before consolidating.
+
+Escalate when: administrative wage garnishment notice from federal loan collector; lawsuit on private loan; disability preventing work; school closure while enrolled; or borrower defense for school fraud claims.
+
+Documentation: StudentAid.gov loan summary, servicer correspondence, payment history, school enrollment records, disability determination letters if applicable.
+
+This digest routes federal versus private issues; it does not enroll you in repayment plans or recommend consolidation.
+Rehabilitation versus consolidation for federal default: rehabilitation removes default flag after successful payment plan; consolidation is faster but may not remove all default reporting effects—compare before choosing.
+
+Income-driven repayment recertification annual requirement—missed recertification balloons payments and may trigger default.
+
+Private loan cosigner release programs exist in some contracts after years of on-time payment—review private note for cosigner release clause.
+
+Total and permanent disability discharge for federal loans requires SSA disability finding or physician certification—separate from SSA benefit applications.
+
+School closure and borrower defense to repayment for fraudulent for-profit schools involve federal discharge applications with long processing times—document enrollment dates and school closure notices.
+
+Oregon student loan ombudsman and federal FSA ombudsman accept servicer complaints—use when servicer misapplies payments or blocks access to IDR plans.
+IDR recertification deadline missed causes payment spike to standard 10-year amount—recertify annually on time.
+
+Public Service Loan Forgiveness requires qualifying employer and 120 qualifying payments on qualifying plan—track employment certification form annually.
+
+Parent PLUS loans in parent's name only—student cannot consolidate parent's PLUS with student's loans in most cases.
+
+Private loan variable interest rate increases payment over time—check note for rate cap and index.
+
+Cosigner release after 12-48 on-time payments per lender policy—request in writing when eligible.
+
+Death and disability discharge available federal loans—submit death certificate or SSA disability finding.
+
+Oregon student borrower bill of rights themes for servicer conduct—complaint to state ombudsman for servicer errors.
+
+Rehabilitation after default removes default from credit report after completion—better long-term credit than settlement on defaulted federal loan.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.

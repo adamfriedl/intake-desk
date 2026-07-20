@@ -8,12 +8,51 @@ Appeal windows for public benefits are often short—commonly measured in days f
 Requesting continuation of benefits pending appeal may require a specific timely request. See the continuance digest. Hearing procedures differ for SNAP, Medicaid, and SSI-related matters.
 
 This digest does not list every Oregon ODHS deadline. Confirm on the notice and with advocates.
-Additional educational context for advocates and lay readers:
+Appeal deadlines in public benefits are unforgiving. SNAP fair hearings typically require requests within 90 days of the date the agency says you received notice, but continuation of benefits pending appeal may require action within 10 days—always read the specific notice. Medicaid fair hearings in Oregon follow similar frameworks with program-specific variations. SSA requests for reconsideration generally allow 60 days from receipt, extendable for good cause if requested promptly.
 
-Public benefits cases are paperwork-deadline cases. A well-explained story without a timely appeal can still lose the pathway to a hearing. Intake should capture the notice date, the stated deadline, the program name, and whether the household requested continuation of benefits pending appeal when that option exists.
+Calculating deadlines: use the notice's stated method. "Mailed on" dates assume delivery a few days later in some programs. When unsure, file the appeal immediately and note mail delay in the request.
 
-Verification lists deserve a literal reading. Agencies often deny or close cases for missing documents even when eligibility might otherwise exist. Submitting partial packets early, with a cover letter listing what is enclosed and what is still coming, is a common educational practice—subject to program rules.
+Protective filing: submitting any written request identifying the decision you disagree with may preserve rights even if the wrong form is used, but do not rely on this—use official forms when available.
 
-Intersecting issues are common: disability accommodations for notices and hearings, language access, domestic violence confidentiality, and homelessness can all affect how a household receives mail and complies with requests. Flag those facts for advocates rather than treating the case as a pure math eligibility problem.
+Expedited appeals exist for SNAP when benefits were terminated or reduced and household faces food insecurity. Request expedited handling in writing.
 
-This corpus does not compute benefit budgets or guarantee reinstatement. It supports grounded explanations of notice anatomy, appeal windows, evidence, overpayments, and program overview language for SNAP and Medicaid-style denials.
+SSA has four appeal levels: reconsideration, ALJ hearing, Appeals Council, federal court. Each level has its own deadline and form (SSA-561 for reconsideration, HA-501 for hearing request).
+
+Unemployment insurance appeals in Oregon have tight windows—often 20 days from mailing of decision. Late appeals need good cause explanation.
+
+Dual programs: appealing SNAP denial does not automatically appeal Medicaid denial—file separately if both are adverse.
+
+If you miss a deadline, some programs allow reopening for good cause within limited periods; others foreclose hearing rights entirely. Same-day advocate contact matters after missed deadlines too.
+
+Written proof of filing: fax confirmations, certified mail receipts, online portal screenshots with timestamps, and in-person filing stamps from agency offices.
+
+Escalate all appeals due within 5 business days. Flag 10-day SNAP continuance windows separately from 90-day hearing requests.
+
+This digest does not list every form number—verify on the notice and agency website current as of your decision date.
+Holiday and weekend deadline calculation varies—some programs extend when deadline falls on non-business day; others do not. File early when deadline falls near holidays.
+
+Authorized representative signature on appeal forms binds household—ensure rep contact info current on form to receive hearing notices.
+
+SSA good cause for late appeal requires written explanation of why delay occurred—keep proof of hospitalization, incarceration, or mail theft supporting good cause.
+
+SNAP expedited service requests should cite household assets, income, and rent/mortgage costs triggering expedited eligibility separately from appeal of denial.
+
+Concurrent federal and state hearings for Medicaid managed care denials may require exhausting plan appeal before external fair hearing—read MCO denial letter for exhaustion requirement.
+
+Fax appeal submissions: keep transmission report with page count matching notice instructions—some offices reject incomplete faxes without telling sender.
+Oregon SNAP fair hearing request 90 days from notice date on letter—verify whether agency uses mailing date or assumed receipt date in your notice header.
+
+Medicaid hearing request deadlines on OHP notices—compare to SNAP deadline on combined notice; may differ.
+
+SSA reconsideration 60 days with good cause extension—file SSA-561 online for timestamp proof.
+
+Unemployment appeal 20 days Oregon—mark calendar on postmark if mailed appeal.
+
+Aid paid pending 10-day SNAP election separate form or checkbox—complete both appeal and continuation if both desired.
+
+Late appeal good cause: hospitalization, family death, mail theft with police report, or office closure—attach proof.
+
+Hearing officer may allow telephonic appearance—request if transportation or disability barrier to in-person hearing.
+
+Expedited SNAP hearing when household without food—write "expedited" on request and cite zero balance.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.

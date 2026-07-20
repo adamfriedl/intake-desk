@@ -8,12 +8,52 @@ SNAP (food benefits) and Medicaid (health coverage) have different eligibility r
 Common issues include income counting, household composition, immigration-related eligibility rules, and missed renewal paperwork. Renewals and recertifications generate many preventable terminations.
 
 This overview orients retrieval; companion digests cover notice anatomy, appeals, evidence, and overpayments. Escalate urgent medical access problems for same-day advocate pathways when available.
-Additional educational context for advocates and lay readers:
+SNAP (Supplemental Nutrition Assistance Program) provides monthly food benefits on Oregon Trail cards. Eligibility turns on household size, gross and net income tests, resource limits for certain households, and work requirements for able-bodied adults without dependents in some cases. Oregon administers SNAP through ODHS with federal funding and rules.
 
-Public benefits cases are paperwork-deadline cases. A well-explained story without a timely appeal can still lose the pathway to a hearing. Intake should capture the notice date, the stated deadline, the program name, and whether the household requested continuation of benefits pending appeal when that option exists.
+Medicaid in Oregon primarily flows through Oregon Health Plan (OHP) with MAGI-based eligibility for many adults and children, plus separate categories for aged, blind, and disabled populations. Renewal periods and income reporting requirements differ from SNAP though ONE system may manage both.
 
-Verification lists deserve a literal reading. Agencies often deny or close cases for missing documents even when eligibility might otherwise exist. Submitting partial packets early, with a cover letter listing what is enclosed and what is still coming, is a common educational practice—subject to program rules.
+Common SNAP denials: income over limit after overtime spike, failure to verify expenses, missed interview, failure to recertify, or voluntary quit from employment without good cause in work-registrant cases.
 
-Intersecting issues are common: disability accommodations for notices and hearings, language access, domestic violence confidentiality, and homelessness can all affect how a household receives mail and complies with requests. Flag those facts for advocates rather than treating the case as a pure math eligibility problem.
+Common Medicaid denials: income above MAGI threshold, failure to verify citizenship or immigration status for eligible categories, missing renewal, or transfer of assets within look-back for certain long-term care categories not applicable to most MAGI cases.
 
-This corpus does not compute benefit budgets or guarantee reinstatement. It supports grounded explanations of notice anatomy, appeal windows, evidence, overpayments, and program overview language for SNAP and Medicaid-style denials.
+Expedited SNAP serves households with little income and resources facing urgent food need—often within seven days if qualifying.
+
+Retroactive Medicaid may cover three prior months of medical bills if eligible during those months and application timely.
+
+Household composition rules: who buys and prepares food together for SNAP; who counts as tax household for Medicaid. Unrelated roommates may be separate SNAP households but Medicaid rules differ.
+
+Student eligibility exceptions exist for SNAP in some circumstances—verify current student rules.
+
+Immigration: qualified non-citizens may be eligible for some programs with waiting periods; others may enroll only specific members (e.g., citizen children). Mixed-status household rules are complex—escalate rather than guess.
+
+Categorically eligible connections: receiving certain other benefits may simplify SNAP eligibility.
+
+Documentation for intake: denial or termination notice, last approval notice, pay stubs, rent amount, utility costs, household member list with SSNs or immigration docs as required, and medical bills if seeking retroactive Medicaid.
+
+Escalate urgent medical access or food insecurity same day. This overview orients retrieval; companion digests cover appeals, evidence, and continuance.
+ONE application renewal combines programs—partial completion may terminate one program while other continues, creating confusion. Confirm each program status separately after renewal submission.
+
+Aged and disabled Medicaid pathways bypass MAGI rules with resource tests—older adults denied MAGI Medicaid may qualify under separate category if assets below limit.
+
+Medicare Savings Programs help pay Medicare premiums for low-income seniors—distinct from OHP but related intake when elderly clients mention both.
+
+SNAP work requirement waivers for homeless individuals and those with documented disabilities vary by policy year—verify current waiver status for ABAWD rules in Oregon.
+
+Child support pass-through rules affect SNAP household income counting—bring court orders showing support amounts.
+
+Emergency Medicaid for undocumented immigrants covers emergency conditions only—distinct from full OHP eligibility; hospital social workers often initiate these applications.
+Oregon ONE system single application for SNAP and OHP—partial approval common; read each program decision paragraph.
+
+Categorically eligible SNAP households bypass asset test in some cases—TANF or OHP receipt may simplify SNAP eligibility.
+
+Medicaid MAGI for adults 19-64 differs from aged/blind/disabled Medicaid with resource test—elderly denied MAGI may qualify under other category.
+
+SNAP work requirement ABAWD time limits in non-waiver areas—verify Oregon waiver status by county each federal fiscal year.
+
+Student SNAP eligibility exceptions for college students working 20 hours or caring for child—document exception category.
+
+Immigration: qualified immigrants five-year bar may apply; citizen children may get SNAP while parent ineligible—household composition rules allocate benefits.
+
+Emergency Medicaid for labor and delivery covers delivery costs for qualifying emergencies regardless of immigration status in many cases—hospital billing office initiates.
+
+OHP open enrollment continuous for eligible categories—unlike marketplace annual enrollment for private insurance.

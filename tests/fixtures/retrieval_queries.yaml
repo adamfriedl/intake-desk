@@ -27,6 +27,31 @@ queries:
     jurisdiction: federal
     expect_doc_prefix: ftc-credit-reporting
 
+  - query: "Oregon rent increase notice how many days landlord must give"
+    matter_type: tenant_housing
+    jurisdiction: oregon
+    expect_doc_prefix: or-rent-increases
+
+  - query: "bedbugs landlord responsibility Oregon apartment"
+    matter_type: tenant_housing
+    jurisdiction: oregon
+    expect_doc_prefix: or-bedbugs-pest
+
+  - query: "statute of limitations old credit card debt collector lawsuit"
+    matter_type: consumer_debt
+    jurisdiction: federal
+    expect_doc_prefix: debt-statute-of-limitations
+
+  - query: "identity theft fraudulent accounts credit collectors"
+    matter_type: consumer_debt
+    jurisdiction: federal
+    expect_doc_prefix: debt-identity-theft
+
+  - query: "SSI disability benefits denial appeal reconsideration"
+    matter_type: benefits_denial
+    jurisdiction: federal
+    expect_doc_prefix: benefits-ssi-ssdi-overview
+
   - query: "SNAP denial notice appeal deadline Oregon"
     matter_type: benefits_denial
     jurisdiction: federal

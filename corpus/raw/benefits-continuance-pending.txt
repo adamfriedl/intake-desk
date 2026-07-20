@@ -8,12 +8,49 @@ In some programs, timely appeals allow benefits to continue unchanged until a he
 Educational caution: do not assume benefits will continue automatically. Read the notice for instructions and deadlines to request continuation. Confirm with the agency or an advocate.
 
 If benefits already stopped, ask about expedited reinstatement options where they exist. Flag for human review.
-Additional educational context for advocates and lay readers:
+Aid paid pending (continuance of benefits pending appeal) allows benefits to continue at the prior level while a fair hearing is decided, if you request continuation timely and meet eligibility conditions. For SNAP, federal rules commonly require appeal and continuation request within 10 days of notice of adverse action. Missing the 10-day window may end benefits even while a later-filed hearing proceeds.
 
-Public benefits cases are paperwork-deadline cases. A well-explained story without a timely appeal can still lose the pathway to a hearing. Intake should capture the notice date, the stated deadline, the program name, and whether the household requested continuation of benefits pending appeal when that option exists.
+Medicaid continuation rules vary by type of action—termination versus reduction versus denial of renewal. Read Oregon-specific notice instructions for OHP.
 
-Verification lists deserve a literal reading. Agencies often deny or close cases for missing documents even when eligibility might otherwise exist. Submitting partial packets early, with a cover letter listing what is enclosed and what is still coming, is a common educational practice—subject to program rules.
+SSA does not continue SSI or SSDI payments automatically during reconsideration unless you file continuing disability payment requests in cessation cases within strict deadlines—SSI cessation notices include Form SSA-789 with 10-day elector options in many situations.
 
-Intersecting issues are common: disability accommodations for notices and hearings, language access, domestic violence confidentiality, and homelessness can all affect how a household receives mail and complies with requests. Flag those facts for advocates rather than treating the case as a pure math eligibility problem.
+Overpayment risk: if you lose the hearing, the agency may collect benefits paid during appeal. Budget for potential repayment or ask about waiver when eligible.
 
-This corpus does not compute benefit budgets or guarantee reinstatement. It supports grounded explanations of notice anatomy, appeal windows, evidence, overpayments, and program overview language for SNAP and Medicaid-style denials.
+Continuation is not automatic upon filing appeal—you must often explicitly request and sometimes re-verify income still qualifies.
+
+If benefits already stopped before you filed, ask about expedited reinstatement for SNAP if eligible, or retroactive Medicaid coverage for qualifying medical periods.
+
+Hearing scheduling delays may mean months of continued benefits—monitor hearing notices and submit updated evidence before hearing date.
+
+Reporting changes during pending appeal: you must still report income increases or household changes; failure may create separate overpayments even if you win the original dispute.
+
+Documentation: proof of timely appeal filing, continuation request copy, agency acknowledgment, and benefit issuance history showing whether payments continued.
+
+Escalate when: benefits stopped despite timely continuation request; 10-day window expires within 48 hours; or household includes children or disabled members losing food or medical access.
+
+This digest does not guarantee continued benefits or overpayment waivers.
+Separate continuance requests for SNAP and Medicaid if both programs adverse action—ONE portal submissions should confirm both programs received continuation election.
+
+Households with zero benefits before appeal may not benefit from continuation—focus on expedited hearing request and emergency food resources instead.
+
+SSA disability cessation allows appeal and electing continued payments during appeal within strict windows—Form SSA-789 timing is day-count sensitive.
+
+Aid paid pending does not stop reporting requirements—unreported income during appeal period creates new overpayment even if original denial reversed.
+
+If agency denies continuation request in writing, appeal that denial separately if program rules allow—do not assume hearing officer will fix continuation error later.
+
+Document benefit card balance and issuance dates weekly during pending appeal to prove agency errors in stopping benefits.
+SNAP 10-day continuation window runs from notice of adverse action mailing date on notice—do not use appeal deadline date interchangeably.
+
+Medicaid continuation for reduction differs from termination—partial loss may still qualify for continuation of higher level pending appeal.
+
+Expedited hearing request for SNAP when benefits stopped and household in food crisis—cite zero income or assets if true.
+
+SSA disability cessation election on Form SSA-789 has 10-day window for continued benefits during appeal—calendar from receipt stamp.
+
+If agency erroneously stopped benefits without notice, request retroactive restoration and aid pending in writing same day.
+
+Overpayment fear should not prevent valid continuation request when eligible—waiver may apply if household loses later.
+
+Document benefit card transaction history to prove abrupt stop mid-month—helps hearing officer see agency error.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.

@@ -20,3 +20,22 @@ A collection call does not by itself mean you have been sued. A lawsuit usually 
 If you believe a collector broke the law, document each contact and consider reporting to the FTC, CFPB, and your state attorney general. An advocate can help evaluate whether you have additional remedies.
 
 This excerpt supports intake about collection calls and letters. It does not recommend paying, settling, or ignoring any specific account.
+The Fair Debt Collection Practices Act (FDCPA) generally applies to third-party debt collectors collecting debts owed to others, not always to original creditors collecting their own debts in their own name. Oregon and other states may have additional consumer protection laws covering original creditors. Identifying who is calling—original creditor, assigned collector, or debt buyer—helps determine which rules apply.
+
+Cease communication requests are powerful but narrow. After a written cease letter, the collector may only contact you to confirm cessation or notify you of specific actions like filing suit. They may still sue. Cease letters do not erase valid debts or stop credit reporting by creditors. Send cease requests by certified mail and keep copies.
+
+Validation rights interact with communication rules. Within five days of initial contact, collectors must send a validation notice with amount, creditor name, and dispute instructions. Disputing within 30 days pauses collection until verification is provided. See the debt validation digest for detail.
+
+Third-party disclosure rules limit who collectors may tell about your debt. Collectors generally cannot discuss your debt with employers, neighbors, or family except to locate you, and even location contacts have limits. Repeated calls to your workplace after you said your employer prohibits calls violate educational summaries of FDCPA themes.
+
+Recorded calls and voicemails are evidence. Note date, time, caller name and company, claimed balance, and threatening language. Some states restrict call recording consent rules—Oregon is a one-party consent state for many recordings, but verify before relying on recordings in court.
+
+Debt buyers purchase portfolios of old accounts and may lack complete documentation. That does not automatically mean you owe nothing, but it affects lawsuit defense and validation responses. Account numbers may change; match old statements to new collector letters carefully.
+
+When collectors contact you about multiple accounts, treat each account separately for disputes and payment decisions. A payment on one account does not resolve others unless a written agreement says so.
+
+Escalate for advocate review when: collectors threaten arrest or criminal prosecution for consumer debt, contact you after a written cease letter without permitted exceptions, discuss your debt with unauthorized third parties, or misrepresent themselves as attorneys or government agents. Summons service is always separate high urgency.
+
+Reporting channels include the Consumer Financial Protection Bureau (consumerfinance.gov/complaint), Federal Trade Commission, and Oregon Department of Justice consumer protection division. Complaints do not replace lawsuit responses.
+
+This excerpt supports intake about collection calls and letters. It does not recommend paying, settling, or ignoring any specific account.

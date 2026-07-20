@@ -8,12 +8,50 @@ Eviction generally involves a notice stage and, if unresolved, a court stage. No
 Common educational themes: read the notice carefully; do not miss court dates; habitability and improper notice can be relevant but are fact-specific; illegal lockouts are improper; settlements should be understood before signing.
 
 Outcomes are never guaranteed. This digest orients a layperson to process vocabulary so intake and retrieval can ground more specific answers in companion sources on notices, FED process, and habitability.
-Additional educational context for advocates and lay readers:
+Eviction is a process, not a single event. It typically begins when the landlord delivers a termination notice stating a reason and a deadline to vacate or cure. If the tenant remains past that deadline, the landlord may file a court case seeking possession. Only after court judgment and proper enforcement steps can law enforcement remove a tenant in the ordinary course. Verbal demands, text messages saying "be out Friday," and lock changes without court order are not the final legal eviction—even when they feel like one.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Nonpayment is the most common stated reason, but for-cause and no-cause pathways exist depending on tenancy type and local law. Each pathway has different notice lengths and content requirements. An eviction "for nonpayment" when rent was paid may be defensible with proof. An eviction for lease violation may be curable if the tenant fixes the issue within the notice window.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Tenants sometimes leave voluntarily after receiving a notice to avoid court, which may be practical but is not legally required until a judgment enforces possession. Voluntary move-out without an agreement may still leave deposit disputes and rent claims unresolved. Signed move-out agreements should specify whether the tenant owes anything after surrender.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Court eviction (FED) adds summons service, first appearance, possible trial, judgment, writ, and sheriff enforcement. Each stage has deadlines. Default judgment from missing court is a frequent preventable loss.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Habitability, retaliation, and discrimination can intersect with eviction defenses but require evidence and proper presentation. "The apartment was bad" without documented repair requests rarely carries the same weight as dated photos, code reports, and written complaints.
+
+Rent assistance and diversion programs exist in some Oregon communities during certain funding periods. Eligibility and timing vary; a pending assistance payment rarely stops court automatically without a filed agreement or stay order.
+
+After move-out, whether voluntary or enforced, collections for alleged unpaid rent may continue. Eviction records and credit reporting raise separate long-term housing barriers. Expungement or sealing rules for eviction records change with legislation—verify current Oregon law.
+
+Escalate immediately upon: any court service, lockout, utility shutoff, or notice combined with domestic violence or voucher termination. Medium urgency: notice only, with more than a few days before expiration. Gather lease, notices, payments, and photos before intake calls when possible.
+
+Companion digests in this corpus cover notices, FED procedure, habitability, deposits, subsidized housing, and documentation in greater depth. This overview maps stages so retrieval can route questions to the right specialized source.
+Cash for keys agreements should specify deposit return, move-out date, and mutual release language before payment—have advocate review if possible before signing.
+
+Third-party rent payment from charities or family may cure nonpayment if paid within notice window—coordinate payment timing with landlord and get receipt showing rent application not fees only.
+
+Military SCRA may stay civil proceedings including eviction for active duty—notify court and landlord with orders copy if applicable.
+
+Seasonal farmworker housing and employer-provided housing involve worker protection overlays—route specialized farmworker legal services when applicable.
+
+After eviction judgment, record sealing or expungement statutes may help future housing applications—verify current Oregon legislation with advocate after case concludes.
+
+Utility shutoff after move-out or during eviction may be landlord retaliation if done to pressure departure before court order—document separately from nonpayment claim.
+Stages map: notice → optional negotiation → FED filing → service → first appearance → trial or default → judgment → writ → sheriff enforcement. Each stage has distinct deadlines.
+
+Cash for keys: get written agreement on deposit return and mutual release before paying—advocate review ideal.
+
+Third-party rent assistance payment must apply to rent within notice cure period—coordinate timing with landlord receipt.
+
+SCRA stay for active military—provide orders to court and landlord if deployment affects ability to appear.
+
+Record sealing after eviction judgment—verify current Oregon expungement legislation with advocate post-case.
+
+Utility shutoff during eviction dispute may be retaliation if unrelated to tenant account—document separately.
+
+Habitability counterclaim or defense fact-specific—repair requests before notice strengthen defense themes.
+
+Subsidized tenant parallel housing authority process—calendar both FED and administrative hearing dates.
+
+Voluntary move-out without agreement may forfeit deposit defenses—negotiate move-out terms when possible.
+
+After move-out, debt collection for alleged rent owed may follow—distinguish possession case from money judgment.

@@ -8,12 +8,52 @@ Seek prompt help when: you are served with a lawsuit; wages or bank accounts are
 Bring summonses, account statements, collection letters, and a list of income sources. Free or low-cost legal aid availability varies by income and county.
 
 This digest is a routing aid for intake triage, not a substitute for counsel.
-Additional educational context for advocates and lay readers:
+Seek immediate legal help when served with any lawsuit, including debt collection, eviction, family law, or benefits appeals with short deadlines. Same-week help matters for summons response dates, garnishment exemption claims, and temporary restraining orders in abuse cases intersecting finances.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+Legal Services Corporation-funded legal aid serves low-income clients in civil matters—use lsc.gov/find-legal-aid to locate programs. Oregon has multiple regional legal aid offices with intake hotlines prioritizing emergencies. Pro bono programs through bar associations supplement legal aid capacity.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Debt-specific escalation triggers: default judgment already entered; bank account frozen; wages garnished; collector threatens arrest; identity theft accounts; domestic abuser opened credit in your name; and disability income targeted by levy.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Benefits-specific triggers: SNAP or Medicaid termination with less than ten days to appeal; overpayment demand threatening tax refund offset; SSI cessation with homelessness risk; and wrongful denial of disability with no income replacement.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+Housing-specific triggers: FED summons, illegal lockout, voucher termination, and habitability emergencies—though this digest focuses on debt routing, many households face combined housing and debt crises requiring holistic intake.
+
+What to bring: all court papers, recent pay stubs, bank statements showing income sources, collection letters last 12 months, credit report, list of creditors with balances if known, and timeline of key events. Income limits apply for free services—bring proof of household size and income either way for referral if ineligible for free aid.
+
+Limited scope representation: some attorneys help with single documents or court appearances for flat fees. Law school clinics may assist in academic terms.
+
+Self-help is appropriate for: organizing documents, pulling credit reports, sending validation disputes, and learning process vocabulary from educational materials like this corpus. Self-help is risky for: missed court deadlines, exemption claims, bankruptcy filing, and negotiated settlements while sued.
+
+Oregon State Bar lawyer referral service connects to attorneys for paid consultation. Ask about consumer law or bankruptcy experience.
+
+When in doubt after reading educational materials, a brief advocate consult prevents expensive defaults. Many preventable losses come from waiting until garnishment begins.
+
+This digest routes intake; it does not determine legal aid eligibility or accept your case.
+Military servicemembers have SCRA protections affecting interest rates and default judgments—disclose active duty status to any advocate or court.
+
+Senior citizens facing debt collection may access elder law projects through area agencies on aging—cross-refer when cognitive concerns appear in intake notes.
+
+Language access: if client cannot read English collection letters, legal aid language access services may provide interpreter for consultation—do not delay help for language barriers.
+
+Courthouse self-help centers assist with form completion but not legal strategy—pair self-help center visits with legal aid when possible same week.
+
+Default judgment already entered may still be set aside within limited time for improper service or excusable neglect—never assume all is lost without advocate review.
+
+Community action agencies sometimes fund bankruptcy filing fees or offer financial counseling—ask about local non-legal aid resources during intake routing.
+Oregon Law Center and Legal Aid Services of Oregon regional offices intake by phone—call early morning for queue position on eviction and benefits emergency days.
+
+OSB Modest Means program reduced fee attorneys for moderate income—referral when over legal aid limit.
+
+Senior Law Project and Disability Law United handle overlapping debt and benefits for elders and disabled clients.
+
+Military Legal Assistance for active duty SCRA issues with debt default judgments and interest rate caps.
+
+Domestic violence financial abuse clinics combine family law and economic advocacy—refer when abuse and debt co-occur.
+
+Court self-help centers cannot tell you what to argue but help file answer—pair with legal aid same week.
+
+Law school clinics seasonal availability—ask university if consumer or bankruptcy clinic accepts public.
+
+Community development financial institutions sometimes offer low-interest consolidation—not same as settlement scam but verify nonprofit status.
+
+Never ignore summons because ashamed of debt—default judgment worse than uncomfortable advocate call.

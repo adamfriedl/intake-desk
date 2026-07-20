@@ -8,12 +8,54 @@ Wage garnishment generally requires a legal process—often a court judgment—b
 Exemptions and caps may limit how much can be taken from wages or bank accounts depending on the debt type and jurisdiction. Oregon-specific exemption details should be confirmed with primary sources or an advocate.
 
 If a garnishment starts, act quickly: read employer notices, court papers, and exemption claim instructions. This digest does not calculate exemption amounts.
-Additional educational context for advocates and lay readers:
+Wage garnishment for ordinary consumer debt typically requires a court judgment. The collector must sue, win (or obtain default), and follow state procedures to garnish wages. Collectors who threaten immediate garnishment without a judgment often bluff—document the threat and consider complaints. Exceptions include some federal debts (tax, federal student loans) with administrative garnishment paths without a private lawsuit.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+Federal law caps garnishment of disposable earnings at 25% or the amount exceeding 30 times the federal minimum wage per week, whichever is less, for many consumer judgments. Oregon exemption law may protect additional amounts or categories of income. Social Security and some benefits receive special protection from bank levies though commingling in accounts complicates protection.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Bank account levies freeze funds after judgment. Exemption claim forms may allow you to protect certain deposits if filed timely—deadlines are short, sometimes as little as ten days from notice. Seek same-week help when a levy hits.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Garnishment notices go to your employer, who must withhold and remit unless an exemption applies. Employer retaliation for one garnishment is generally prohibited under federal law, though multiple garnishments create HR complications.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+Before garnishment, a lawsuit usually occurred. If you never received suit papers, default judgment may be improper due to bad service—consult an advocate about setting aside default in your state court.
+
+Oregon-specific exemption amounts and procedures should be verified on Oregon Law Help and current ORS exemption statutes. Homestead, vehicle, and tools-of-trade exemptions may matter for bank levies beyond wages.
+
+Student loan and tax garnishment follow different notice and hearing rights. Federal student loan administrative wage garnishment allows a hearing request in some circumstances before garnishment begins.
+
+If garnishment would leave you unable to afford basic living expenses, bankruptcy or hardship programs may be options advocates discuss—see bankruptcy basics digest for orientation only.
+
+Documentation for intake: judgment papers, writ of garnishment, employer notice, pay stubs showing disposable income, bank levy notice, and exemption claim forms filed or available.
+
+Escalate immediately upon: first levy or garnishment notice, garnishment of clearly exempt benefits, or garnishment without remembered lawsuit. Medium urgency: collector threats of imminent garnishment—verify court records online if available in your county.
+
+This digest does not calculate exempt amounts or file exemption claims for you.
+Multiple garnishments compete for exemption limits—second garnishment may be partially or fully blocked if first consumes exempt capacity.
+
+Self-employment income garnishment harder for creditors but bank levies capture deposited business receipts—separate business and personal accounts when possible with advocate guidance.
+
+Head of household additional exemption may apply in some states—verify Oregon statutes for family wage protection beyond federal floor.
+
+Garnishment of joint bank account may seize non-debtor spouse money—separate accounts or exemption claim naming non-debtor funds may help.
+
+Post-judgment discovery compels debtor to disclose assets—failure to appear at debtor exam may lead to contempt—respond to exam notices.
+
+Federal benefits direct deposit to dedicated account with only benefit deposits simplifies proving exempt source at levy—commingling defeats protection.
+Oregon exemption claim form deadline short after levy notice—legal aid same-week priority.
+
+Head of household additional Oregon exemption may protect more wages—verify current ORS amount with advocate.
+
+Bank levy on jointly held account: claim non-debtor spouse funds separately with documentation.
+
+Social Security direct deposit commingled with wages loses easy exemption—separate accounts recommended after advocate consult.
+
+Self-employment garnishment less common; levy on business account captures deposits—entity structure matters.
+
+Multiple judgments rotate garnishment priority—first in time may consume exemption capacity.
+
+Garnishment after bankruptcy discharge violates stay if debt discharged—notify bankruptcy attorney immediately.
+
+Employer cannot fire for one garnishment federal law—document if termination follows garnishment for advocate.
+
+Oregon wage assignment for consumer debt distinct from judicial garnishment—different objection procedures.
+
+Payment plan with judgment creditor may stop garnishment if creditor agrees—get written stipulation filed with court.

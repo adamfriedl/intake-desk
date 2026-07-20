@@ -1,0 +1,52 @@
+DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+
+Title: CHIP and Children's Health Coverage in Oregon
+Canonical references: https://www.healthcare.gov/ ; https://www.oregon.gov/oha/OHP/Pages/index.aspx
+
+Children's health coverage in Oregon flows primarily through Oregon Health Plan (OHP) programs for eligible children and families, including CHIP-funded coverage for moderate-income children who earn too much for traditional Medicaid but too little for affordable private insurance. ONE application system often determines children's eligibility alongside adults.
+
+Eligibility turns on household income, household size, immigration status rules for qualified children, and renewal compliance. Children may remain eligible when adults are not.
+
+Common denial themes: income over limit after seasonal work, failure to verify citizenship or immigration status for eligible categories, missed renewal, or incorrect household composition counting stepparents or shared custody incorrectly.
+
+Retroactive coverage for prior medical bills may be available if children were eligible during those months and application timely.
+
+Dental and vision benefits vary by OHP plan type—check benefit package on approval notice.
+
+Move from employer insurance to OHP requires understanding special enrollment and coordination of benefit rules.
+
+Documentation: denial or termination notice, children's birth certificates or immigration docs, household income proofs, custody orders if applicable, and medical bills for retroactive requests.
+
+Escalate when: child loses coverage during active treatment; denial of newborn coverage; or confusion between adult and child eligibility in same household.
+
+This digest does not enroll children in OHP or compute income thresholds.
+OHP children's coverage includes well-child visits, immunizations, and developmental screenings at no cost in most plans—use preventive care while enrolled to maximize benefit value.
+
+Premium tax credit interactions on Healthcare.gov affect families who might also qualify for OHP—ONE system generally routes to correct program but errors happen when income is near thresholds.
+
+Foster care and adoption subsidy children may have separate eligibility pathways—flag foster/adoptive status at intake.
+
+Pregnancy and newborn coverage rules allow retroactive enrollment windows for newborns if applied within statutory period after birth—missed windows create scary billing but may be fixable.
+
+Dental-only denial while medical OHP approved requires separate appeal tracking—children's dental through OHP has distinct plan administrators.
+
+Language access for LEP parents affects children's enrollment when parents cannot read English notices—request interpreter and translated OHP materials through ODHS.
+Oregon Health Plan children's programs include physical health, mental health, and dental administered through coordinated care organizations (CCOs). Denials of specific services by CCO may require internal grievance before external fair hearing—read denial letter pathway carefully.
+
+Newborn coverage typically attaches to mother's OHP if mother enrolled at birth—apply for separate child case promptly if mother uninsured to avoid gap.
+
+Foster youth aging out may qualify for extended Medicaid to age 26 under federal rules—flag foster care history at intake.
+
+Premium and copay changes when household income crosses thresholds mid-year require reporting—failure to report raise may cause overpayment later.
+
+School-based health services billing should not become family medical debt when child on OHP—dispute bills sent to families for covered services.
+
+CHIP funding reauthorization at federal level occasionally creates political uncertainty—eligibility rules in effect on application date control, not news headlines.
+
+Compare Healthcare.gov denial with OHP denial when family applied on exchange—data mismatch between systems sometimes fixable with single corrected application.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.
+
+Children's OHP renewal often aligns with school-year paperwork cycles; missing school-based insurance verification requests can terminate coverage even when household income unchanged. Respond to ODHS renewal packets even if the child still appears covered online. Pediatric prescriptions denied at pharmacy may be prior-authorization issues distinct from eligibility—route pharmacy denials through the CCO drug exception process.
+
+Escalate for human advocate review whenever safety, court dates, or program appeal windows are involved. Educational digests help you ask better questions and organize facts; they do not replace case-specific advice from qualified counsel or accredited representatives familiar with current Oregon and federal rules.
+Verify all dollar limits, deadlines, and form numbers against the agency or court website active on your notice date.

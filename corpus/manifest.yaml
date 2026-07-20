@@ -323,3 +323,135 @@ documents:
     license_note: "Educational digest; not a substitute for primary sources."
     topics: [snap, medicaid, oregon_health_plan]
     notes: Oregon DHS administers state SNAP and OHP; income limits update annually.
+
+  - id: or-rent-increases
+    title: Rent Increases in Oregon — Notice, Caps, and Local Rules
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-rent-increases.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [rent_increase, notice, relocation]
+    notes: Compare state notice rules with city relocation and just-cause overlays.
+
+  - id: or-bedbugs-pest
+    title: Bedbugs, Pests, and Infestations in Oregon Rentals
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-bedbugs-pest.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [bedbugs, pests, habitability]
+    notes: Multi-unit treatment coordination and disability accommodation themes.
+
+  - id: or-domestic-violence-housing
+    title: Domestic Violence and Housing Protections in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-domestic-violence-housing.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [domestic_violence, vawa, lease_termination]
+    notes: Cross-references VAWA for subsidized housing; safety planning first.
+
+  - id: or-mobile-home
+    title: Mobile and Manufactured Home Park Tenancies in Oregon
+    source_url: https://oregonlawhelp.org/
+    matter_types: [tenant_housing]
+    jurisdiction: oregon
+    local_path: corpus/raw/or-mobile-home.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [mobile_home, manufactured_housing, pad_rental]
+    notes: Space rental rules layer on ORLA; home title and pad eviction are distinct tracks.
+
+  - id: debt-statute-of-limitations
+    title: Statute of Limitations on Consumer Debt — Educational Overview
+    source_url: https://www.consumer.ftc.gov/
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-statute-of-limitations.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [statute_of_limitations, time_barred, defense]
+    notes: Oregon SOL for contract debts; separate from FCRA reporting periods.
+
+  - id: debt-bankruptcy-basics
+    title: Bankruptcy Basics for Consumer Debt — Chapter 7 and Chapter 13
+    source_url: https://www.uscourts.gov/services-forms/bankruptcy
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-bankruptcy-basics.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [bankruptcy, chapter_7, chapter_13, discharge]
+    notes: Orientation only; Oregon exemption amounts require primary-source verification.
+
+  - id: debt-identity-theft
+    title: Identity Theft and Fraudulent Debt — Consumer Response Steps
+    source_url: https://www.identitytheft.gov/
+    matter_types: [consumer_debt]
+    jurisdiction: federal
+    local_path: corpus/raw/debt-identity-theft.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [identity_theft, fraud, credit_freeze]
+    notes: IdentityTheft.gov recovery plans; parallel bureau and collector disputes.
+
+  - id: benefits-ssi-ssdi-overview
+    title: SSI and SSDI — Programs, Differences, and Denial Themes
+    source_url: https://www.ssa.gov/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-ssi-ssdi-overview.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [ssi, ssdi, disability, sequential_evaluation]
+    notes: Distinct financial rules; SSA appeal levels differ from state SNAP/Medicaid hearings.
+
+  - id: benefits-unemployment
+    title: Unemployment Insurance in Oregon — Eligibility and Appeals
+    source_url: https://www.oregon.gov/employ/
+    matter_types: [benefits_denial]
+    jurisdiction: oregon
+    local_path: corpus/raw/benefits-unemployment.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [unemployment, ui, oregon_employment_department]
+    notes: Tight appeal windows; work search documentation frequently contested at hearings.
+
+  - id: benefits-chip-kids
+    title: CHIP and Children's Health Coverage in Oregon
+    source_url: https://www.healthcare.gov/
+    matter_types: [benefits_denial]
+    jurisdiction: federal
+    local_path: corpus/raw/benefits-chip-kids.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational digest; not a substitute for primary sources."
+    topics: [chip, children, oregon_health_plan]
+    notes: OHP administers children's coverage; ONE application routes household members.
+
+  - id: referral-criminal-out-of-scope
+    title: Criminal Matters — Out of Scope for Civil Self-Help Intake
+    source_url: https://www.oregon.gov/osbar/
+    matter_types: [unknown]
+    jurisdiction: oregon
+    local_path: corpus/raw/referral-criminal-out-of-scope.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational routing digest for triage refusal contrast."
+    topics: [referral, out_of_scope, criminal]
+    notes: Short refusal-contrast doc; route to public defender and criminal counsel.
+
+  - id: referral-immigration-out-of-scope
+    title: Immigration Matters — Out of Scope for General Civil Self-Help Intake
+    source_url: https://www.immigrationlawhelp.org/
+    matter_types: [unknown]
+    jurisdiction: federal
+    local_path: corpus/raw/referral-immigration-out-of-scope.txt
+    last_updated: "2026-07-20"
+    license_note: "Educational routing digest for triage refusal contrast."
+    topics: [referral, out_of_scope, immigration]
+    notes: Short refusal-contrast doc; civil overlap flagged for specialist coordination only.

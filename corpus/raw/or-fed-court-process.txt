@@ -10,12 +10,31 @@ Missing the first appearance can lead to default. Tenants who appear may raise d
 After judgment, enforcement of possession follows additional steps; timelines can move quickly. This overview intentionally avoids county-specific form names because forms change and selecting the wrong form is harmful.
 
 If served with eviction papers: read every page, calendar the appearance date, gather the lease and notices, and contact legal aid or a court facilitator where available. High urgency; human review recommended.
-Additional educational context for advocates and lay readers:
+A forcible entry and detainer (FED) case is Oregon's expedited court pathway for landlords seeking possession of residential rental property. It is not a criminal case, though tenants sometimes confuse it with one. The case name on papers may read "Forcible Entry and Detainer" or similar. Educational timelines emphasize speed: first appearance dates may fall within days of service depending on county scheduling and whether the tenant was served personally or by posting.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Service of process matters enormously. Tenants served personally generally have clear notice of the case. Posting and mailing service may occur when personal service fails; rules about when posting is allowed affect whether default is proper. If you never received papers but learn of a case online, seek immediate advocate help—relief from default may be limited and time-bound.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+The first appearance is not always a full trial. Counties differ: some use first appearance for mediation or entry of judgment if the tenant does not appear; others set trial later if the tenant answers. Missing the first appearance often results in a default judgment for possession, which starts the clock toward writ enforcement. Appearing does not require you to have every defense perfected—it preserves your right to be heard.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Common defenses and issues raised in FED cases include: improper notice, acceptance of rent after notice, habitability conditions, retaliation, discrimination, wrong plaintiff (especially with debt buyers or property transfers), and payment of claimed rent. Defenses must usually be raised in proper written responses depending on local rules; verbal statements alone may not suffice.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Settlements and stipulations signed in hallway negotiations may waive defenses or set strict move-out dates. Read every line before signing. "Pay and stay" agreements may require strict payment schedules with immediate judgment if a payment is late. Stipulated judgments can be entered the same day.
+
+After a judgment for possession, the tenant may still have a short window before the sheriff executes a writ of execution. Educational materials warn against relying on informal extensions. Some tenants explore appeals or motions to set aside default, but deadlines are tight and success is not guaranteed.
+
+Money claims for back rent, fees, or damages may appear in the same case or a separate proceeding depending on court practice and amount. A possession judgment does not always resolve money owed; conversely, paying money owed does not automatically dismiss a possession case without a written agreement filed with the court.
+
+Documentation for FED intake: the summons and complaint, all termination notices, lease, rent ledger, photos of conditions, proof of payments, and any settlement drafts. Escalate all served FED papers as high urgency. Court facilitators and legal aid clinics can help with form selection—this digest intentionally avoids naming forms that change by county.
+
+Subsidized housing tenants may face parallel administrative hearings with housing authorities while also in FED court; coordinate both with an advocate.
+Court facilitator cannot give legal advice but helps with form completion—bring all papers to facilitator appointment early same week as service.
+
+Jury trial availability in FED varies—most FED cases bench trial before judge; do not assume jury unless requested properly.
+
+Witness subpoenas for repair habitability defense require advance preparation—identify witnesses and notify advocate before trial setting.
+
+Entry of money judgment alongside possession allows post-judgment collections—understand whether you agreed to money judgment in stipulation.
+
+Right to counsel not guaranteed in civil FED—legal aid accepts by priority; pro se tenants should use facilitator and written defenses.
+
+After judgment tenant may owe court costs and attorney fees if lease attorney fee clause enforced—factor fee exposure into settlement decisions.

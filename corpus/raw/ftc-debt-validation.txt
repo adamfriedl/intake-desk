@@ -18,3 +18,22 @@ Collectors may contact you by phone, mail, email, or text message, but they must
 If a collector violates the law, you may report the problem to the Federal Trade Commission, the Consumer Financial Protection Bureau, and your state attorney general. You may also have the right to sue in some situations. Documentation — dates, names, amounts, and copies of letters — helps advocates evaluate your options.
 
 This excerpt orients lay users to validation and dispute basics. It does not predict lawsuit outcomes or recommend whether to pay a particular debt.
+Debt validation is the process by which a collector proves you owe a specific amount to a specific creditor. The validation notice must arrive within five days of initial contact in most FDCPA-covered cases. If you dispute in writing within 30 days of receiving that notice, collection must stop until the collector mails verification. Verification is not always a full contract package—it may be account statements and identification of the creditor—but collectors cannot continue collection without responding to a timely dispute.
+
+Disputes after the 30-day window may still be useful for credit reporting and lawsuit defense but may not trigger the same automatic collection pause under federal law. Send disputes anyway if the debt is wrong, with proof of mailing.
+
+Common validation scenarios include: debts you do not recognize because the account was opened fraudulently; balances inflated by fees you never agreed to; debts already paid or discharged in bankruptcy; debts belonging to someone with a similar name; and zombie debts revived beyond the statute of limitations (see statute of limitations digest—payment may restart clocks in some cases).
+
+Dispute letters should identify the account, state why you dispute, and request verification. Do not admit owing the debt in dispute letters unless an advocate advises that strategic admission helps in your situation. Request the name and address of the original creditor and proof of assignment if a debt buyer owns the account.
+
+If validation arrives, read whether it satisfies your dispute. Incomplete verification may support further dispute or complaint. If the collector resumes collection without verification after a timely dispute, document dates for FDCPA complaint themes.
+
+Credit reporting disputes are parallel but separate. Disputing with Equifax, Experian, or TransUnion under the Fair Credit Reporting Act does not replace a collector validation dispute. Both tracks may be needed if inaccurate tradelines appear.
+
+Lawsuit timing: collectors may file suit before or after validation disputes resolve. A pending dispute does not automatically stop a court deadline. Calendar summons response dates independently.
+
+Identity theft debts require police reports, FTC identity theft reports (IdentityTheft.gov), and fraud disputes to collectors and credit bureaus. See the identity theft digest.
+
+Escalate when: validation never arrives after timely dispute but collection continues; sued on a debt you disputed as not yours; collector refuses to identify original creditor; or balance jumps without explanation.
+
+Documentation checklist: validation notice, your dispute letter with mailing proof, all subsequent collector letters, account statements from original creditor if available, and credit report tradelines for the account.

@@ -2,7 +2,7 @@
 
 Agentic legal intake, triage, and guided-document workflow — a portfolio project demonstrating RAG, multi-step LLM orchestration, schema-validated outputs, and golden-scenario evals for legal self-help contexts.
 
-**Status:** Legal aid intake prototype — client triage (self-help / escalate / refuse), advocate case file view, pgvector RAG, 16/16 evals.
+**Status:** Legal aid intake prototype — redesigned client/advocate UI, ~41-doc / ~30k-word corpus, triage (self-help / escalate / refuse), pgvector RAG.
 
 ## What it does
 
@@ -51,8 +51,8 @@ make test-integration     # retrieval smoke tests (needs API key + ingest)
 
 ```
 intake-desk/
-├── corpus/           # manifest + raw self-help digests (~29 docs)
-├── eval/scenarios/   # golden YAML scenarios (16)
+├── corpus/           # manifest + raw self-help digests (~41 docs, ~30k words)
+├── eval/scenarios/   # golden YAML scenarios (21+)
 ├── src/intake_desk/
 │   ├── agents/       # intake, classify, retrieve, draft
 │   ├── api/          # FastAPI routes + review endpoints

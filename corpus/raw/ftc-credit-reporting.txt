@@ -18,3 +18,35 @@ If the furnisher continues to report incorrect information, you may need to disp
 Checking your own report is a "soft inquiry" and does not lower your score. Disputing errors is separate from responding to a debt collection lawsuit — court deadlines still apply if you are sued.
 
 This excerpt supports credit-reporting intake questions. It does not guarantee a particular score change or timeline for every dispute.
+The Fair Credit Reporting Act (FCRA) governs credit reporting companies (CRAs) and entities that furnish information to them. You have the right to dispute incomplete or inaccurate information. CRAs must investigate most disputes within 30 days (sometimes 45 if you provide additional information during investigation). Furnishers must investigate and correct inaccurate reports.
+
+Obtain reports from all three major bureaus—Equifax, Experian, and TransUnion—because furnishers may report to only one or two. AnnualCreditReport.com is the authorized free source; beware imposter sites. During certain periods, additional free weekly reports may be available under federal initiatives—verify current policies at consumer.ftc.gov.
+
+Dispute packages should include: your identifying information, each disputed tradeline by account number, specific factual errors (wrong balance, not my account, paid in full, wrong dates), and supporting documents such as payment confirmations, court orders, or identity theft reports. Send to the CRA and consider copying the furnisher.
+
+Results of investigation must be provided in writing. If corrected, request an updated free report. If unchanged, you may add a brief consumer statement explaining your side, though statements rarely change scores.
+
+Negative but accurate information may remain for legally permitted periods—commonly seven years for many delinquencies, with variations for bankruptcies and certain public records. Accurate negative information is not removable simply because it hurts your score. Disputes target errors, not discomfort with truthful reporting.
+
+Medical debt reporting rules have evolved; CFPB and credit industry policies may limit certain medical collections on reports. Verify current rules rather than assuming all medical debt is excluded. Dispute inaccurate medical tradelines regardless of category.
+
+Hard inquiries from credit applications differ from soft inquiries from your own review. Disputing your own legitimate inquiries rarely succeeds.
+
+If a furnisher verifies inaccurate information, next steps may include CFPB complaint, follow-up dispute with additional documents, or advocate consultation about furnisher liability under FCRA.
+
+Credit reports affect housing applications, employment background checks in permitted jurisdictions, and insurance in some states. Fixing errors before applying for housing may matter as much as score improvement.
+
+Escalate when: identity theft accounts appear; same debt reports multiple times inflating damage; debts discharged in bankruptcy still show as owed; or CRA fails to respond within statutory time.
+
+This excerpt supports credit-reporting intake. It does not guarantee removal of accurate negative entries or predict score changes after disputes.
+Fraud alert one year renewable; extended fraud alert seven years for identity theft victims with police report—choose appropriate alert level.
+
+Security freeze free nationwide—lift temporarily for mortgage application then re-freeze.
+
+Dispute results "verified as accurate" may add 100-word consumer statement—brief factual statement only.
+
+Medical collection under $500 may be excluded from reports under current industry policies—verify tradeline status after policy changes.
+
+Authorized user tradelines on your report for someone else's account—dispute if not authorized; fraud if stranger account.
+
+Employer background check adverse action requires FCRA notice and copy of report used—separate from tenant screening denials.

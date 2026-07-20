@@ -10,12 +10,29 @@ Discrimination rules under fair housing frameworks prohibit treating tenants dif
 If retaliation or discrimination is suspected, document the protected activity, the landlord’s response, dates, and witnesses. These matters often require specialized advocate or agency involvement (for example fair housing organizations). Do not treat this digest as a finding that retaliation occurred.
 
 Escalate for human review when protected-class issues, domestic violence protections, or disability accommodations are involved.
-Additional educational context for advocates and lay readers:
+Retaliation in housing occurs when a landlord punishes a tenant for exercising a lawful right. Oregon educational materials describe protected activities such as complaining in good faith about habitability, reporting code violations, organizing with other tenants, or asserting rights under the rental agreement or statute. Adverse actions include termination notices, rent increases, harassment, reduced services, or refusing to make repairs after a complaint. Timing is critical evidence: a termination notice dated two weeks after a code inspection carries different weight than one sent six months later.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Proving retaliation requires connecting protected activity to adverse action. Keep the repair request, code complaint confirmation, tenant meeting flyers, and the landlord's subsequent messages. Retaliation defenses may arise in FED cases but are fact-intensive; do not assume automatic victory because you complained once.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Fair housing discrimination involves treating people differently based on protected characteristics under federal and state law. Race, color, national origin, religion, sex, familial status, and disability are core federal categories; Oregon law adds sources of income and other protections in various contexts. Discrimination can appear in advertising, screening, rent setting, enforcement of rules, eviction selection, or refusal to permit reasonable accommodations and modifications for disabilities.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Reasonable accommodations are changes in rules or policies—assigning an accessible parking space, allowing a support animal despite a no-pets rule, or adjusting notice delivery for cognitive disabilities. Reasonable modifications are physical changes, often at the tenant's expense, such as grab bars or a ramp. Requests should be documented; landlords may ask for disability-related need confirmation but cannot demand unnecessary medical detail.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+Domestic violence, sexual assault, and stalking survivors may have additional housing protections including early lease termination, lock changes, and protections against eviction based on the abuser's conduct or calls to police. These intersect with VAWA for subsidized tenants. Flag any mention of abuse for specialized screening rather than treating the case as a routine roommate dispute.
+
+Source-of-income discrimination may be unlawful in Oregon jurisdictions where landlords cannot reject applicants solely because they use housing vouchers or other lawful income types. Screening denials and "no Section 8" policies require local rule review.
+
+When to escalate to fair housing organizations or legal aid: differential treatment compared to neighbors, refusal of a disability accommodation, sexual harassment by housing staff, eviction after reporting discrimination, or familial status issues such as refusing children in violation of rules. Document comparators—how the landlord treats similar tenants without your protected characteristic.
+
+This digest does not determine whether unlawful discrimination occurred. It helps intake identify red flags and preserve evidence for agency complaints (HUD, BOLI, local civil rights offices) and private advocacy.
+Comparative evidence strengthens discrimination claims—similarly situated tenants of different protected class treated better for same lease violation.
+
+Sexual orientation and gender identity protected under Oregon law in housing—document harassment and differential enforcement.
+
+Source of income discrimination complaints may go to BOLI or local civil rights office depending on jurisdiction—preserve application denial letters citing voucher.
+
+Emotional support animal requests require interactive process—landlord cannot demand specific certification vendor or breed ban override without individualized assessment.
+
+Familial status discrimination includes unreasonable occupancy limits—two persons per bedroom guideline is not automatic legal maximum in all cases.
+
+Retaliation for organizing tenant association protected—keep meeting notices and landlord responses after tenant meeting occurred.

@@ -10,12 +10,29 @@ After a tenancy ends, landlords often must provide an accounting of deductions w
 If the deposit is not returned or the accounting seems improper, tenants may have civil claim options under residential landlord-tenant rules. Deadlines and damage multipliers, if any, depend on statute and facts. Keep the lease, payment proofs, condition photos, and all deposit correspondence.
 
 This digest does not calculate a specific dollar recovery. For disputed deductions, gather documents and seek advocate review before filing anything.
-Additional educational context for advocates and lay readers:
+Oregon rules require landlords to account for security deposits within a defined period after move-out—commonly 31 days in educational summaries—and return any balance with an itemized statement of deductions. Missing that deadline can trigger statutory penalties in some circumstances, making timing a powerful issue for tenants who documented conditions properly. The deposit cannot be used for ordinary wear and tear from normal use of the unit over time.
 
-Jurisdiction and local overlays matter. Statewide landlord-tenant concepts may be modified by city ordinances addressing just-cause termination, relocation assistance, or screening criteria. Always compare the lease, the notice, and any local rules that apply to the property address.
+Wear and tear versus damage is the central dispute in most deposit cases. Faded paint, minor scuffs on walls, worn carpet in traffic areas, and small nail holes from picture hanging typically fall on the landlord's side as ordinary wear. Burns in carpet, broken windows, missing fixtures, or holes from unauthorized modifications may be chargeable. Landlords often inflate cleaning charges; compare move-in and move-out photos side by side.
 
-Communication hygiene reduces later disputes. Prefer dated written messages for repair requests, payment questions, and occupancy changes. If conversations happen by phone or in person, follow up with a short written summary. Preserve envelopes and proof of mailing when notices arrive by post.
+Move-in documentation is your best deposit defense. Complete any landlord checklist at entry and note every scratch and stain. If the landlord did not provide a checklist, send a dated written description with photos anyway. At move-out, request a walk-through if the landlord offers one, and take your own photos after cleaning. Forwarding address matters: provide a new address in writing so the accounting reaches you.
 
-Safety and urgency triage should sit alongside legal triage. Illegal lockouts, utility shutoffs, and imminent first appearances are high urgency. Habitability problems that threaten health—no heat in cold weather, sewage backups, or gas leaks—also warrant rapid escalation even before every document is perfectly organized.
+Deductions for unpaid rent at move-out appear on many deposit statements. If you dispute the rent claim, gather payment records, ledger printouts, and bank statements. Deductions labeled "damage" without description may be challengeable; the accounting should identify what was damaged and the cost basis.
 
-What this corpus will not do: predict case outcomes, choose a court form for you, or authorize self-help tactics that create criminal or civil exposure. Decision-support digests exist to ground RAG answers in process vocabulary and common educational themes so a human advocate can take over with better context.
+If you receive no accounting or an obviously improper one, civil small-claims or district court options may exist depending on amount and facts. Statutes of limitation and penalty multipliers depend on current law—verify with Oregon Law Help rather than assuming double damages apply in every case.
+
+Common scenarios include landlord keeping the entire deposit for repainting when repainting is routine turnover, charging professional cleaning when the unit was left broom-clean, or claiming carpet replacement for minor stains. Subsidized tenants and Section 8 participants may have additional inspection standards; housing authority move-out inspections can create third-party records.
+
+Escalate when: the landlord missed the accounting deadline, deductions exceed the deposit, you suspect retaliation deductions after a habitability complaint, or the landlord billed you additional amounts beyond the deposit after move-out. Bring move-in and move-out photos, the lease deposit clause, all rent receipts, and correspondence.
+
+This digest does not calculate your expected refund or choose a court form. It orients intake toward documentation themes that advocates use in deposit disputes across Oregon counties.
+Pre-move-out written request for inspection with proposed date creates record if landlord refuses walk-through—send certified mail if landlord unresponsive.
+
+Room-by-room video walkthrough at move-out beats still photos for showing overall cleanliness—narrate date on video.
+
+Landlord sale of property during tenancy does not eliminate deposit obligation—successor owner inherits deposit liability in typical ORLA transfer themes.
+
+Roommate deposit split disputes among co-tenants when one stays—internal accounting separate from landlord deposit return to last remaining tenant.
+
+Interest on deposits if required locally or by agreement—check Portland and other local rules on deposit interest accounting.
+
+Small claims court filing fees and limits vary—deposit claims often fit small claims but attorney fee recovery depends on lease clause and statute.

@@ -1,0 +1,47 @@
+DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+
+Title: Statute of Limitations on Consumer Debt — Educational Overview
+Canonical references: https://www.consumer.ftc.gov/ ; Oregon ORS chapter 12
+
+Statute of limitations (SOL) is the time limit for a creditor to sue you on a debt. After SOL expires, suit may be barred as a defense if properly raised— but the debt may still exist and collectors may still contact you within collection law limits. SOL varies by debt type and state. Oregon consumer contract debts often fall under multi-year periods—verify current ORS provisions rather than relying on oral summaries.
+
+SOL generally runs from last payment or last charge depending on debt type and state law. Making a payment or acknowledging the debt in writing may restart the clock in some cases—critical caution before paying old debts.
+
+Expired SOL is an affirmative defense in lawsuit answer—it does not automatically make collectors stop calling unless you dispute and they accept legal bar. Collectors may still report to credit bureaus within FCRA time limits separate from SOL.
+
+Debt buyers suing on ancient accounts may lack documentation; SOL defense pairs with lack of standing arguments.
+
+Time-barred debt collection: CFPB and FTC materials describe restrictions on suing or threatening suit on time-barred debts by collectors covered by federal rules.
+
+Bankruptcy filing tolls or affects SOL differently—specialized advice required.
+
+Documentation: last payment date proof, account statements showing charge-off date, collector letters admitting age of debt, and credit report date of last activity.
+
+Escalate when: sued on debt you believe is time-barred; collector threatens suit on very old account; or payment demand on zombie debt before confirming SOL impact.
+
+This digest does not compute SOL for your specific account or jurisdiction conflict of laws issues.
+Choice of law questions arise when you lived in another state when the debt accrued or when the creditor is headquartered elsewhere. Oregon courts may apply Oregon SOL to many Oregon-resident consumer cases, but conflicts analysis is advocate territory—do not assume SOL from internet forums.
+
+Credit reporting time limits under FCRA are not identical to lawsuit SOL. An account may disappear from credit reports while a collector still attempts contact, or vice versa. Manage credit disputes and collector contact as parallel tracks.
+
+Partial payments on time-barred debts: some collectors solicit "good faith" payments that restart SOL. Before any payment on old debt, verify last activity date on credit report and collector validation materials.
+
+If already sued, SOL is raised as an affirmative defense in your answer—missing the answer deadline loses the chance to raise SOL even if the debt is ancient. Never ignore summons based on SOL alone without filing timely response.
+
+Bankruptcy discharge of time-barred debts may still be useful to stop contact and clean credit reporting of discharged accounts—bankruptcy counsel evaluates whether filing adds value beyond SOL defense.
+Written versus oral contract SOL differs in Oregon—credit card agreements often written with longer period than oral promises.
+
+Promissory notes and private loans may have different SOL than open-ended credit accounts—identify instrument type on complaint.
+
+Affirmative defense must be asserted in answer—waived if not raised. Do not rely on judge raising SOL sua sponte in all courts.
+
+Payment after SOL may revive debt in Oregon under partial payment doctrines—consult advocate before any payment on old debt.
+
+Credit reporting 7-year period runs from date of first delinquency—may differ from SOL last payment date.
+
+Collector letter saying "will not sue" on time-barred debt still may attempt collection—Reg F limits misrepresentation about suing.
+
+Bankruptcy discharge eliminates personal liability even if SOL not expired pre-filing—discharge injunction stops collection on discharged debts.
+Practical documentation recap: keep originals safe, provide copies to advocates, and maintain a dated timeline of contacts with landlords, collectors, or agencies. When deadlines approach within one week, treat the matter as urgent intake regardless of other life stressors. Oregon Law Help, consumer.ftc.gov, and usa.gov remain starting points for verifying that this educational summary matches current primary sources before acting on any single paragraph alone.
+
+If a collector offers a 'settlement' on a very old account, ask in writing whether the collector claims the right to sue. Collectors covered by federal rules face restrictions on threatening suit on time-barred debt. Saving the written response helps advocates evaluate whether the offer is collection pressure alone versus a genuine litigation risk.

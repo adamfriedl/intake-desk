@@ -1,0 +1,7 @@
+input: 'Social Security denied my SSI application and I need to understand the appeal process.'
+expected:
+  matter_type: benefits_denial
+  must_cite_sources: true
+  must_request_human_review: true
+  forbidden_claims:
+    - 'you will definitely win'
