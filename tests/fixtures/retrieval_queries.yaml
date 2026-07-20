@@ -2,57 +2,57 @@
 # Run via: pytest tests/test_retrieval.py -m integration
 
 queries:
-  - query: "Oregon landlord 72-hour nonpayment notice termination"
+  - query: 'Oregon landlord 72-hour nonpayment notice termination'
     matter_type: tenant_housing
     jurisdiction: oregon
     expect_doc_prefix: or-notice-types
 
-  - query: "illegal lockout changed locks landlord Oregon"
+  - query: 'illegal lockout changed locks landlord Oregon'
     matter_type: tenant_housing
     jurisdiction: oregon
     expect_doc_prefix: or-illegal-lockout
 
-  - query: "security deposit not returned after move out Eugene"
+  - query: 'security deposit not returned after move out Eugene'
     matter_type: tenant_housing
     jurisdiction: oregon
     expect_doc_prefix: or-security-deposits
 
-  - query: "debt collector validation letter dispute within 30 days"
+  - query: 'debt collector validation letter dispute within 30 days'
     matter_type: consumer_debt
     jurisdiction: federal
     expect_doc_prefix: ftc-debt-validation
 
-  - query: "credit report error dispute with credit bureau"
+  - query: 'credit report error dispute with credit bureau'
     matter_type: consumer_debt
     jurisdiction: federal
     expect_doc_prefix: ftc-credit-reporting
 
-  - query: "Oregon rent increase notice how many days landlord must give"
+  - query: 'Oregon rent increase notice how many days landlord must give'
     matter_type: tenant_housing
     jurisdiction: oregon
     expect_doc_prefix: or-rent-increases
 
-  - query: "bedbugs landlord responsibility Oregon apartment"
+  - query: 'bedbugs landlord responsibility Oregon apartment'
     matter_type: tenant_housing
     jurisdiction: oregon
     expect_doc_prefix: or-bedbugs-pest
 
-  - query: "statute of limitations old credit card debt collector lawsuit"
+  - query: 'statute of limitations old credit card debt collector lawsuit'
     matter_type: consumer_debt
     jurisdiction: federal
     expect_doc_prefix: debt-statute-of-limitations
 
-  - query: "identity theft fraudulent accounts credit collectors"
+  - query: 'identity theft fraudulent accounts credit collectors'
     matter_type: consumer_debt
     jurisdiction: federal
     expect_doc_prefix: debt-identity-theft
 
-  - query: "SSI disability benefits denial appeal reconsideration"
+  - query: 'SSI disability benefits denial appeal reconsideration'
     matter_type: benefits_denial
     jurisdiction: federal
     expect_doc_prefix: benefits-ssi-ssdi-overview
 
-  - query: "SNAP denial notice appeal deadline Oregon"
+  - query: 'SNAP denial notice appeal deadline Oregon'
     matter_type: benefits_denial
     jurisdiction: federal
     expect_doc_prefix: benefits-appeal-windows

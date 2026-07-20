@@ -9,12 +9,12 @@ Public-education digests used by Intake Desk RAG. These are **attributed educati
 
 ## Current coverage (Phase 1+)
 
-| Matter | Docs | Notes |
-| --- | --- | --- |
-| `tenant_housing` | 16 | Oregon notices, lockouts, deposits, DV housing, mobile homes, pests, rent |
-| `consumer_debt` | 13 | FTC-style collection + validation, lawsuits, bankruptcy basics, ID theft |
-| `benefits_denial` | 10 | SNAP/Medicaid, SSI/SSDI, unemployment, CHIP, appeals, overpayments |
-| out-of-scope referral | 2 | Criminal / immigration (refusal contrast) |
+| Matter                | Docs | Notes                                                                     |
+| --------------------- | ---- | ------------------------------------------------------------------------- |
+| `tenant_housing`      | 16   | Oregon notices, lockouts, deposits, DV housing, mobile homes, pests, rent |
+| `consumer_debt`       | 13   | FTC-style collection + validation, lawsuits, bankruptcy basics, ID theft  |
+| `benefits_denial`     | 10   | SNAP/Medicaid, SSI/SSDI, unemployment, CHIP, appeals, overpayments        |
+| out-of-scope referral | 2    | Criminal / immigration (refusal contrast)                                 |
 
 ~41 documents, ~30k words. Condensed FTC excerpts use `source_type: primary_public` where noted.
 
