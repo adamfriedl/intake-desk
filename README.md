@@ -2,7 +2,7 @@
 
 Agentic legal intake, triage, and guided-document workflow — a portfolio project demonstrating RAG, multi-step LLM orchestration, schema-validated outputs, and golden-scenario evals for legal self-help contexts.
 
-**Status:** Phase 1 in progress — ~29-doc topic-matrix corpus, pgvector ingest path, citation grounding + refusal checks. Not court-ready filings.
+**Status:** Phase 1 + review UI MVP — OpenRouter LLM/embeddings, pgvector RAG, citation grounding, advocate review UI, 16/16 evals. Not court-ready filings.
 
 ## What it does
 
@@ -10,9 +10,10 @@ Agentic legal intake, triage, and guided-document workflow — a portfolio proje
 2. **Classify** — route to matter type with confidence + human-review flag
 3. **Retrieve** — RAG over a curated corpus with mandatory citations
 4. **Draft** — section-level outline for advocate review (not court-ready filings)
+5. **Review** — approve, edit, or reject draft sections in the web UI
 
 ```
-User message → intake → classify → retrieve/RAG → draft outline → human review
+User message → intake → classify → retrieve/RAG → draft outline → advocate review
 ```
 
 ## Quick start
@@ -28,40 +29,42 @@ cp .env.example .env
 
 docker compose up -d db
 make ingest          # chunk + embed corpus into pgvector
-uvicorn intake_desk.api.main:app --reload --app-dir src
+make up              # API on :8000
 ```
 
-Open http://127.0.0.1:8000/
+Open http://127.0.0.1:8000/ — run intake, click citations to view source chunks, review draft sections.
 
 ## Run evals
 
 ```bash
-python eval/runner.py
+make eval
 ```
 
-Requires API keys and (preferably) an ingested pgvector index. Expand `eval/scenarios/` as you harden the pipeline.
+Requires API keys and an ingested pgvector index. Current scaffold: **16/16** golden scenarios passing.
 
 ## Run tests
 
 ```bash
-pytest
+make test                 # unit tests only (CI default)
+make test-integration     # retrieval smoke tests (needs API key + ingest)
 ```
 
 ## Project layout
 
 ```
 intake-desk/
-├── corpus/           # manifest + raw public self-help digests (~29 docs)
-├── eval/scenarios/   # golden YAML scenarios (~15)
+├── corpus/           # manifest + raw self-help digests (~29 docs)
+├── eval/scenarios/   # golden YAML scenarios (16)
 ├── src/intake_desk/
 │   ├── agents/       # intake, classify, retrieve, draft
-│   ├── api/          # FastAPI routes
+│   ├── api/          # FastAPI routes + review endpoints
 │   ├── eval/         # eval runner
 │   ├── orchestrator/ # pipeline
-│   ├── rag/          # chunking, embeddings, pgvector store, grounding
+│   ├── rag/          # chunking, embeddings, pgvector, grounding
+│   ├── review/       # in-memory advocate session store
 │   └── schemas/      # Pydantic models
 ├── tests/
-└── web/              # minimal demo UI
+└── web/              # advocate review UI
 ```
 
 ## Build phases
@@ -69,15 +72,16 @@ intake-desk/
 See `~/forge/job-search/notes/legal-engineer-research.md` for the full portfolio plan.
 
 - [x] Phase 0 — scaffold + end-to-end pipeline skeleton
-- [~] Phase 1 — comprehensive corpus, pgvector ingest, citation grounding, refusal behavior (code landed; run `make ingest` with API keys)
+- [x] Phase 1 — corpus, pgvector ingest, citation grounding, refusal behavior
 - [ ] Phase 2 — audit logging polish, schema hardening, classifier tuning
-- [ ] Phase 3 — human-in-loop review UI
-- [ ] Phase 4 — 30+ golden scenarios, CI eval reporting
+- [x] Phase 3 — human-in-loop review UI (MVP)
+- [~] Phase 4 — 30+ golden scenarios, CI eval reporting (unit CI landed)
 
 ## Limitations
 
-- Educational digests — confirm against primary sources before real advocate use
+- Mix of educational digests and condensed FTC public excerpts — confirm against primary sources
 - Decision-support only; not legal advice
+- Review sessions are in-memory (restart clears them)
 - Eval scores are scaffold metrics, not production quality claims
 
 ## License

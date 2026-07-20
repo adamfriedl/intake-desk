@@ -8,43 +8,95 @@
       :root {
         color-scheme: light dark;
         font-family: system-ui, sans-serif;
+        --border: rgba(127, 127, 127, 0.25);
+        --muted: #666;
+        --warn: #b45309;
+        --danger: #b91c1c;
+        --ok: #15803d;
       }
       body {
         margin: 0 auto;
-        max-width: 840px;
+        max-width: 960px;
         padding: 2rem 1.25rem 4rem;
         line-height: 1.5;
       }
-      h1 {
-        margin-bottom: 0.25rem;
-      }
-      .muted {
-        color: #666;
-      }
-      textarea {
+      h1 { margin-bottom: 0.25rem; }
+      h2 { margin-top: 2rem; font-size: 1.15rem; }
+      .muted { color: var(--muted); }
+      textarea, input[type="text"] {
         width: 100%;
-        min-height: 140px;
         padding: 0.75rem;
         font: inherit;
+        box-sizing: border-box;
       }
+      textarea { min-height: 120px; }
       button {
-        margin-top: 0.75rem;
-        padding: 0.6rem 1rem;
+        margin-top: 0.5rem;
+        margin-right: 0.5rem;
+        padding: 0.55rem 0.9rem;
         font: inherit;
         cursor: pointer;
       }
-      pre {
+      .banner {
+        margin: 1rem 0;
+        padding: 0.75rem 1rem;
+        border-left: 4px solid var(--warn);
+        background: rgba(180, 83, 9, 0.08);
+      }
+      .banner.danger {
+        border-left-color: var(--danger);
+        background: rgba(185, 28, 28, 0.08);
+      }
+      .grid {
+        display: grid;
+        gap: 1rem;
+      }
+      .card {
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1rem;
+      }
+      .pill {
+        display: inline-block;
+        font-size: 0.85rem;
+        padding: 0.15rem 0.55rem;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        margin-right: 0.35rem;
+      }
+      .pill.warn { border-color: var(--warn); color: var(--warn); }
+      .pill.ok { border-color: var(--ok); color: var(--ok); }
+      .pill.bad { border-color: var(--danger); color: var(--danger); }
+      .citation {
+        display: block;
+        text-align: left;
+        width: 100%;
+        margin: 0.5rem 0;
+        padding: 0.75rem;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: transparent;
+        cursor: pointer;
+        font: inherit;
+      }
+      .citation:hover { background: rgba(127, 127, 127, 0.08); }
+      .section-actions { margin-top: 0.5rem; }
+      .section-status { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.03em; }
+      #chunk-panel {
+        margin-top: 1rem;
+        padding: 1rem;
+        border: 1px dashed var(--border);
+        border-radius: 8px;
+        white-space: pre-wrap;
+      }
+      .hidden { display: none; }
+      pre.raw {
         white-space: pre-wrap;
         background: rgba(127, 127, 127, 0.12);
         padding: 1rem;
         border-radius: 8px;
         overflow-x: auto;
-      }
-      .banner {
-        margin: 1rem 0;
-        padding: 0.75rem 1rem;
-        border-left: 4px solid #b45309;
-        background: rgba(180, 83, 9, 0.08);
+        font-size: 0.85rem;
       }
     </style>
   </head>
@@ -62,17 +114,51 @@
     ></textarea>
     <button id="submit">Run intake pipeline</button>
 
-    <h2>Result</h2>
-    <pre id="output">Submit a message to run the pipeline.</pre>
+    <div id="results" class="hidden">
+      <div id="alerts"></div>
+
+      <h2>Intake record</h2>
+      <div id="intake" class="card"></div>
+
+      <h2>Classification</h2>
+      <div id="classification" class="card"></div>
+
+      <h2>Grounded answer</h2>
+      <div id="answer" class="card"></div>
+
+      <h2>Citations</h2>
+      <div id="citations" class="grid"></div>
+      <div id="chunk-panel" class="hidden"></div>
+
+      <h2>Draft outline — advocate review</h2>
+      <div id="draft-actions">
+        <button id="approve-all" type="button">Approve all pending</button>
+      </div>
+      <div id="sections" class="grid"></div>
+
+      <h2>Audit log</h2>
+      <pre id="audit" class="raw"></pre>
+
+      <h2>Session export</h2>
+      <pre id="export" class="raw"></pre>
+    </div>
+
+    <p id="status" class="muted"></p>
 
     <script>
       const submit = document.getElementById('submit');
       const message = document.getElementById('message');
-      const output = document.getElementById('output');
+      const results = document.getElementById('results');
+      const statusEl = document.getElementById('status');
+      let session = null;
 
-      submit.addEventListener('click', async () => {
-        output.textContent = 'Running pipeline...';
+      submit.addEventListener('click', runIntake);
+      document.getElementById('approve-all').addEventListener('click', approveAll);
+
+      async function runIntake() {
+        statusEl.textContent = 'Running pipeline...';
         submit.disabled = true;
+        results.classList.add('hidden');
         try {
           const response = await fetch('/api/intake', {
             method: 'POST',
@@ -80,16 +166,186 @@
             body: JSON.stringify({ message: message.value, include_draft: true }),
           });
           const data = await response.json();
-          if (!response.ok) {
-            throw new Error(data.detail || 'Request failed');
-          }
-          output.textContent = JSON.stringify(data, null, 2);
+          if (!response.ok) throw new Error(data.detail || 'Request failed');
+          session = data;
+          renderSession(session);
+          results.classList.remove('hidden');
+          statusEl.textContent = `Session ${session.session_id}`;
         } catch (error) {
-          output.textContent = String(error);
+          statusEl.textContent = String(error);
         } finally {
           submit.disabled = false;
         }
-      });
+      }
+
+      function renderSession(record) {
+        const p = record.pipeline;
+        renderAlerts(p);
+        renderIntake(p.intake);
+        renderClassification(p.classification);
+        renderAnswer(p);
+        renderCitations(p.citations || []);
+        renderSections(record.reviewed_sections || []);
+        document.getElementById('audit').textContent = JSON.stringify(p.audit_log, null, 2);
+        document.getElementById('export').textContent = JSON.stringify(record, null, 2);
+        document.getElementById('chunk-panel').classList.add('hidden');
+      }
+
+      function renderAlerts(p) {
+        const alerts = document.getElementById('alerts');
+        alerts.innerHTML = '';
+        if (p.refused) {
+          alerts.innerHTML = `<div class="banner danger"><strong>Refused:</strong> ${escapeHtml(p.refusal_reason || 'Insufficient sources')}</div>`;
+        } else if (p.classification.human_review_required) {
+          alerts.innerHTML = `<div class="banner"><strong>Human review required</strong> before relying on this output.</div>`;
+        }
+      }
+
+      function renderIntake(intake) {
+        document.getElementById('intake').innerHTML = `
+          <div><strong>Jurisdiction:</strong> ${escapeHtml(intake.jurisdiction || 'unknown')}</div>
+          <div><strong>Urgency:</strong> ${escapeHtml(intake.urgency)}</div>
+          <div><strong>Facts:</strong></div>
+          <ul>${(intake.facts || []).map((f) => `<li>${escapeHtml(f)}</li>`).join('') || '<li class="muted">None extracted</li>'}</ul>
+        `;
+      }
+
+      function renderClassification(c) {
+        document.getElementById('classification').innerHTML = `
+          <span class="pill">${escapeHtml(c.matter_type)}</span>
+          <span class="pill">confidence ${c.confidence.toFixed(2)}</span>
+          ${c.human_review_required ? '<span class="pill warn">human review</span>' : '<span class="pill ok">routine</span>'}
+          <p class="muted">${escapeHtml(c.rationale || '')}</p>
+        `;
+      }
+
+      function renderAnswer(p) {
+        document.getElementById('answer').innerHTML = p.answer
+          ? `<div>${linkifyCitations(p.answer)}</div>`
+          : '<p class="muted">No answer (refused or empty).</p>';
+      }
+
+      function linkifyCitations(text) {
+        return escapeHtml(text).replace(/\[([a-z0-9._:-]+)\]/gi, (_, id) =>
+          `<button type="button" class="citation inline" data-chunk="${id}">[${id}]</button>`
+        );
+      }
+
+      function renderCitations(citations) {
+        const container = document.getElementById('citations');
+        container.innerHTML = citations.length
+          ? citations.map((c) => `
+              <button type="button" class="citation" data-chunk="${escapeHtml(c.chunk_id)}">
+                <strong>${escapeHtml(c.chunk_id)}</strong> — ${escapeHtml(c.source)}
+                <div class="muted">${escapeHtml(c.quoted_span)}</div>
+              </button>
+            `).join('')
+          : '<p class="muted">No citations retrieved.</p>';
+
+        container.querySelectorAll('[data-chunk]').forEach((el) => {
+          el.addEventListener('click', () => loadChunk(el.dataset.chunk));
+        });
+        document.getElementById('answer').querySelectorAll('[data-chunk]').forEach((el) => {
+          el.addEventListener('click', () => loadChunk(el.dataset.chunk));
+        });
+      }
+
+      async function loadChunk(chunkId) {
+        const panel = document.getElementById('chunk-panel');
+        panel.classList.remove('hidden');
+        panel.textContent = 'Loading chunk...';
+        try {
+          const response = await fetch(`/api/chunks/${encodeURIComponent(chunkId)}`);
+          const data = await response.json();
+          if (!response.ok) throw new Error(data.detail || 'Chunk not found');
+          panel.innerHTML = `
+            <strong>${escapeHtml(data.chunk_id)}</strong> — ${escapeHtml(data.source)}
+            ${data.source_url ? `<div><a href="${escapeHtml(data.source_url)}" target="_blank" rel="noopener">Primary source</a></div>` : ''}
+            <pre class="raw">${escapeHtml(data.text)}</pre>
+          `;
+        } catch (error) {
+          panel.textContent = String(error);
+        }
+      }
+
+      function renderSections(sections) {
+        const container = document.getElementById('sections');
+        if (!sections.length) {
+          container.innerHTML = '<p class="muted">No draft sections (refused or draft skipped).</p>';
+          return;
+        }
+        container.innerHTML = sections.map((section) => `
+          <div class="card" data-index="${section.index}">
+            <div class="section-status pill ${statusClass(section.review_status)}">${escapeHtml(section.review_status)}</div>
+            <h3>${escapeHtml(section.title)}</h3>
+            <textarea class="section-content">${escapeHtml(section.content)}</textarea>
+            <div class="section-actions">
+              <button type="button" data-action="approve">Approve</button>
+              <button type="button" data-action="save">Save edit</button>
+              <button type="button" data-action="reject">Reject</button>
+            </div>
+          </div>
+        `).join('');
+
+        container.querySelectorAll('.card').forEach((card) => {
+          const index = Number(card.dataset.index);
+          card.querySelector('[data-action="approve"]').addEventListener('click', () =>
+            patchSection(index, { review_status: 'approved' })
+          );
+          card.querySelector('[data-action="reject"]').addEventListener('click', () =>
+            patchSection(index, { review_status: 'rejected' })
+          );
+          card.querySelector('[data-action="save"]').addEventListener('click', () => {
+            const content = card.querySelector('.section-content').value;
+            patchSection(index, { content, review_status: 'edited' });
+          });
+        });
+      }
+
+      function statusClass(status) {
+        if (status === 'approved') return 'ok';
+        if (status === 'rejected') return 'bad';
+        if (status === 'edited') return 'warn';
+        return '';
+      }
+
+      async function patchSection(index, body) {
+        if (!session) return;
+        const response = await fetch(`/api/review/${session.session_id}/sections/${index}`, {
+          method: 'PATCH',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+        });
+        const data = await response.json();
+        if (!response.ok) {
+          statusEl.textContent = data.detail || 'Review update failed';
+          return;
+        }
+        session = data;
+        renderSession(session);
+      }
+
+      async function approveAll() {
+        if (!session) return;
+        const response = await fetch(`/api/review/${session.session_id}/approve-all`, {
+          method: 'POST',
+        });
+        const data = await response.json();
+        if (!response.ok) {
+          statusEl.textContent = data.detail || 'Approve-all failed';
+          return;
+        }
+        session = data;
+        renderSession(session);
+      }
+
+      function escapeHtml(value) {
+        return String(value)
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;');
+      }
     </script>
   </body>
 </html>
