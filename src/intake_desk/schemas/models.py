@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import UTC, datetime
 from enum import Enum
 from typing import Literal
 from uuid import UUID, uuid4
@@ -17,6 +17,13 @@ class DraftSectionStatus(str, Enum):
     DRAFT = "draft"
     NEEDS_REVIEW = "needs_review"
     BLOCKED = "blocked"
+
+
+class SectionReviewStatus(str, Enum):
+    PENDING = "pending"
+    APPROVED = "approved"
+    EDITED = "edited"
+    REJECTED = "rejected"
 
 
 class IntakeRecord(BaseModel):
@@ -77,3 +84,33 @@ class PipelineResult(BaseModel):
     refused: bool = False
     refusal_reason: str | None = None
     audit_log: list[PipelineStepLog] = Field(default_factory=list)
+
+
+class ReviewedSection(BaseModel):
+    index: int
+    title: str
+    content: str
+    original_content: str
+    review_status: SectionReviewStatus = SectionReviewStatus.PENDING
+
+
+class SessionRecord(BaseModel):
+    session_id: UUID
+    pipeline: PipelineResult
+    reviewed_sections: list[ReviewedSection] = Field(default_factory=list)
+    updated_at: datetime = Field(default_factory=lambda: datetime.now(UTC))
+
+
+class SectionReviewUpdate(BaseModel):
+    content: str | None = None
+    review_status: SectionReviewStatus | None = None
+
+
+class ChunkDetail(BaseModel):
+    chunk_id: str
+    doc_id: str
+    source: str
+    text: str
+    jurisdiction: str
+    matter_types: str
+    source_url: str = ""
