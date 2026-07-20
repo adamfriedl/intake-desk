@@ -20,7 +20,10 @@ ingest: db
 	.venv/bin/python -m intake_desk.rag.ingest
 
 test:
-	.venv/bin/pytest
+	.venv/bin/pytest -m "not integration"
+
+test-integration:
+	.venv/bin/pytest -m integration
 
 eval:
 	.venv/bin/python eval/runner.py

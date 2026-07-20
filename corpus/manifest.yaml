@@ -136,34 +136,37 @@ documents:
 
   - id: ftc-debt-collection-comms
     title: Communicating With Debt Collectors — Federal Consumer Protections
-    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    source_url: https://consumer.ftc.gov/articles/debt-collection-faqs
     matter_types: [consumer_debt]
     jurisdiction: federal
     local_path: corpus/raw/ftc-debt-collection-comms.txt
     last_updated: "2026-07-20"
-    license_note: "Educational digest; not a substitute for primary sources."
+    source_type: primary_public
+    license_note: "Condensed excerpt from U.S. FTC public consumer education materials."
     topics: [fdcpa, communications, cease_contact]
     notes: FTC and CFPB public education on collector contact rules.
 
   - id: ftc-debt-validation
     title: Debt Validation and Disputing Collection Accounts
-    source_url: https://www.consumer.ftc.gov/articles/debt-collection-faqs
+    source_url: https://consumer.ftc.gov/articles/debt-collection-faqs
     matter_types: [consumer_debt]
     jurisdiction: federal
     local_path: corpus/raw/ftc-debt-validation.txt
     last_updated: "2026-07-20"
-    license_note: "Educational digest; not a substitute for primary sources."
+    source_type: primary_public
+    license_note: "Condensed excerpt from U.S. FTC public consumer education materials."
     topics: [validation, dispute, fdcpa]
     notes: Emphasizes 30-day written dispute window after validation notice.
 
   - id: ftc-credit-reporting
     title: Credit Reporting Rights Under the Fair Credit Reporting Act
-    source_url: https://www.consumer.ftc.gov/articles/how-dispute-errors-your-credit-report
+    source_url: https://consumer.ftc.gov/articles/disputing-errors-credit-reports
     matter_types: [consumer_debt]
     jurisdiction: federal
     local_path: corpus/raw/ftc-credit-reporting.txt
     last_updated: "2026-07-20"
-    license_note: "Educational digest; not a substitute for primary sources."
+    source_type: primary_public
+    license_note: "Condensed excerpt from U.S. FTC public consumer education materials."
     topics: [fcra, credit_report, dispute]
     notes: AnnualCreditReport.com is the authorized free report source.
 

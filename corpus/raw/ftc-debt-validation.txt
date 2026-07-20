@@ -1,19 +1,20 @@
-DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+DISCLAIMER: Educational excerpt condensed from U.S. FTC public consumer materials.
+Not legal advice. Primary source: https://consumer.ftc.gov/articles/debt-collection-faqs
 
-Title: Debt Validation and Disputes (FTC-Style Education)
-Canonical references: https://www.consumer.ftc.gov/
+Title: Debt Collection FAQs — Validation and Your Rights (FTC Public Education)
 
-When a collector first contacts a consumer about a debt, educational FTC materials describe rights to receive information about the debt and to dispute it. Consumers commonly request verification if they do not recognize the account, the amount looks wrong, or identity theft is possible.
+If you owe money, a debt collector may contact you to collect it. Federal law limits how debt collectors can contact you and what they must tell you.
 
-Put disputes and validation requests in writing, keep copies, and send using a trackable method when feasible. Continue documenting calls. Disputing does not always erase a debt; it is a process for clarifying whether the collector has the right account and amount.
+When a debt collector first contacts you, they must send a written "validation notice" within five days. The notice must include how much you owe, the name of the creditor, and what to do if you do not think you owe the debt.
 
-If the debt appears on a credit report, separate credit-reporting dispute channels may also apply. See the credit reporting digest. Seek advocate help if sued, if the debt is time-barred, or if identity theft is involved.
-Additional educational context for advocates and lay readers:
+You have the right to dispute a debt. If you send a dispute letter within 30 days of receiving the validation notice, the collector must stop collection efforts until it sends you verification of the debt. Keep a copy of your letter and send it in a way that gives you proof of delivery.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+If you do not recognize the debt, the amount seems wrong, or you think the debt is not yours, dispute it in writing. Do not assume that paying a small amount will make the problem go away without a written agreement about what the payment resolves.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Debt collectors may not harass you. They may not use obscene language, threaten violence, or call repeatedly to annoy you. They may not lie about who they are or misrepresent the amount you owe. They may not tell you that you will be arrested if you do not pay a consumer debt.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+Collectors may contact you by phone, mail, email, or text message, but they must follow rules about when and how often they contact you. You can tell a collector to stop contacting you at work if your employer does not allow such calls. You can also send a letter asking the collector to stop all contact except to tell you about specific actions like filing a lawsuit.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+If a collector violates the law, you may report the problem to the Federal Trade Commission, the Consumer Financial Protection Bureau, and your state attorney general. You may also have the right to sue in some situations. Documentation — dates, names, amounts, and copies of letters — helps advocates evaluate your options.
+
+This excerpt orients lay users to validation and dispute basics. It does not predict lawsuit outcomes or recommend whether to pay a particular debt.

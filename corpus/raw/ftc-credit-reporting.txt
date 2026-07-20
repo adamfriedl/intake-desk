@@ -1,19 +1,20 @@
-DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+DISCLAIMER: Educational excerpt condensed from U.S. FTC public consumer materials.
+Not legal advice. Primary source: https://consumer.ftc.gov/articles/disputing-errors-credit-reports
 
-Title: Credit Reporting Basics (FTC-Style Education)
-Canonical references: https://www.consumer.ftc.gov/
+Title: Disputing Errors on Credit Reports (FTC Public Education)
 
-Credit reports summarize account history used by lenders and others. Consumers can obtain reports and dispute inaccurate information with credit reporting companies and furnishers. Educational materials emphasize checking identifying information, account statuses, balances, and collection entries.
+Your credit report affects whether you can get a loan, a job, insurance, or an apartment. It is important that the information in your report is complete and accurate.
 
-Disputes should be specific: what is wrong, why, and what supporting documents exist. Keep copies. Corrections are not guaranteed and timelines vary. A dispute is not the same as a court defense to a lawsuit.
+You are entitled to a free copy of your credit report every 12 months from each of the three nationwide credit reporting companies. You can request reports through the official centralized service. Review reports from all three companies because they may contain different information.
 
-Avoid companies that guarantee credit-score miracles. For mixed identity-theft issues, follow FTC identity-theft recovery education and consider advocate referral.
-Additional educational context for advocates and lay readers:
+If you find mistakes — wrong accounts, incorrect balances, accounts that are not yours, or outdated negative information — you can dispute them with the credit reporting company and with the company that furnished the information.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+To dispute an error, write to the credit reporting company and explain what is wrong. Include copies (not originals) of documents that support your position. Identify each item you dispute, state the facts, and ask that the error be corrected. Send your letter by certified mail and keep a copy.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+The credit reporting company must investigate most disputes within 30 days unless it considers your dispute frivolous. It must forward your dispute to the furnisher, which must investigate and report back. When the investigation is complete, the credit reporting company must give you the results in writing and a free copy of your report if the dispute changes the report.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+If the furnisher continues to report incorrect information, you may need to dispute again or seek advocate help. Negative information generally may stay on a credit report for a limited number of years depending on the type of entry, but inaccurate information should be corrected or removed.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+Checking your own report is a "soft inquiry" and does not lower your score. Disputing errors is separate from responding to a debt collection lawsuit — court deadlines still apply if you are sued.
+
+This excerpt supports credit-reporting intake questions. It does not guarantee a particular score change or timeline for every dispute.

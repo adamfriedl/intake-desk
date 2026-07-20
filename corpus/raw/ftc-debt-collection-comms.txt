@@ -1,19 +1,22 @@
-DISCLAIMER: Educational self-help digest for decision-support demos only. Not legal advice. Confirm details with primary sources and a qualified advocate.
+DISCLAIMER: Educational excerpt condensed from U.S. FTC public consumer materials.
+Not legal advice. Primary source: https://consumer.ftc.gov/articles/debt-collection-faqs
 
-Title: Debt Collection Communications (FTC-Style Education)
-Canonical references: https://www.consumer.ftc.gov/
+Title: Debt Collection Communications — What Collectors Can and Cannot Do (FTC Public Education)
 
-Collectors contacting consumers about debts are subject to federal rules that limit harassing or deceptive practices and set expectations for how they communicate. Educational materials from the FTC explain that collectors should not call at unreasonable hours, use threats of violence, or make false claims about what will happen if you do not pay.
+Debt collectors contact people who owe money to creditors. Sometimes the collector works for the original creditor; sometimes it is a separate debt buyer. The rules depend in part on whether the collector is covered by the federal Fair Debt Collection Practices Act, which generally applies to third-party collectors collecting debts on behalf of others.
 
-Consumers can often ask collectors to stop contacting them at work if the employer prohibits such calls, and can send written requests limiting contact. Keep a log of calls: date, time, number, what was said.
+Collectors may contact you by phone, mail, email, or text. They must identify themselves as debt collectors in every communication. They must tell you that any information they obtain will be used to collect the debt.
 
-A collection call does not automatically mean a lawsuit has been filed. Conversely, silence does not mean a lawsuit cannot be filed later. This digest covers communications norms, not a litigation strategy.
-Additional educational context for advocates and lay readers:
+Collectors may not contact you at inconvenient times or places. They generally may not call before 8 a.m. or after 9 p.m. local time unless you agree. They may not contact you at work if you tell them your employer prohibits such calls.
 
-Collectors, original creditors, and debt buyers may play different roles. A consumer should identify who is contacting them, whether a lawsuit has actually been filed, and whether the account is already on a credit report. Those are separate tracks that often get conflated in stressful phone calls.
+Harassment is illegal. Collectors may not use threats of violence, obscene language, or repeated calls intended to annoy. They may not publish lists of people who refuse to pay debts. They may not misrepresent the character, amount, or legal status of a debt.
 
-Written records beat memory. Call logs, letters, account numbers (truncated when sharing), and screenshots help advocates evaluate FDCPA-style concerns, validation strategy, and litigation risk. If a summons arrives, court deadlines outrank collector phone negotiations until an advocate says otherwise.
+Collectors may not lie. They may not falsely claim to be attorneys or government representatives. They may not threaten arrest for ordinary consumer debt. They may not tell you legal papers are not legal forms when they are, or vice versa.
 
-Income source matters for hardship and exemption analysis. Wages, Social Security, unemployment, and disability benefits may receive different treatment depending on the collection method. Do not assume a collector’s description of garnishment power is accurate.
+You can ask a collector to stop contacting you. If you send a written request to stop contact, the collector may only contact you to confirm there will be no further contact or to notify you of a specific action such as filing a lawsuit. Keep a copy of your letter.
 
-This corpus stays neutral on whether to pay, settle, or fight a particular debt. It exists to retrieve grounded educational framing and to route urgent lawsuit or harassment facts to human review quickly.
+A collection call does not by itself mean you have been sued. A lawsuit usually involves formal service of court papers with response deadlines. Treat summonses separately from collection letters.
+
+If you believe a collector broke the law, document each contact and consider reporting to the FTC, CFPB, and your state attorney general. An advocate can help evaluate whether you have additional remedies.
+
+This excerpt supports intake about collection calls and letters. It does not recommend paying, settling, or ignoring any specific account.

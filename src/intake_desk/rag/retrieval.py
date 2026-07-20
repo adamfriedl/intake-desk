@@ -79,6 +79,22 @@ class InMemoryRetriever:
             )
         return citations
 
+    def get_chunk(self, chunk_id: str) -> dict[str, str] | None:
+        if not self._index:
+            return None
+        for item in self._index:
+            if item.chunk.chunk_id == chunk_id:
+                return {
+                    "chunk_id": item.chunk.chunk_id,
+                    "doc_id": item.chunk.doc_id,
+                    "source": item.chunk.source,
+                    "text": item.chunk.text,
+                    "jurisdiction": item.chunk.jurisdiction,
+                    "matter_types": ",".join(item.chunk.matter_types),
+                    "source_url": "",
+                }
+        return None
+
 
 class PgvectorRetriever:
     def __init__(self, settings: Settings, store: VectorStore | None = None) -> None:
@@ -100,6 +116,29 @@ class PgvectorRetriever:
             jurisdiction=jurisdiction,
             top_k=top_k,
         )
+
+    def get_chunk(self, chunk_id: str) -> dict[str, str] | None:
+        return self.store.get_chunk(chunk_id)
+
+
+def get_chunk_detail(settings: Settings, chunk_id: str) -> dict[str, str] | None:
+    retriever = build_retriever(settings)
+    if hasattr(retriever, "get_chunk"):
+        chunk = retriever.get_chunk(chunk_id)
+        if chunk:
+            return chunk
+    for chunk in build_chunks_from_manifest(settings):
+        if chunk.chunk_id == chunk_id:
+            return {
+                "chunk_id": chunk.chunk_id,
+                "doc_id": chunk.doc_id,
+                "source": chunk.source,
+                "text": chunk.text,
+                "jurisdiction": chunk.jurisdiction,
+                "matter_types": ",".join(chunk.matter_types),
+                "source_url": "",
+            }
+    return None
 
 
 def build_retriever(settings: Settings):

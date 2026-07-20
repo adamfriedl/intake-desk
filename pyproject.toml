@@ -37,6 +37,9 @@ packages = ["src/intake_desk"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 asyncio_mode = "auto"
+markers = [
+    "integration: live API/DB retrieval tests (deselect with '-m \"not integration\"')",
+]
 
 [tool.ruff]
 line-length = 100

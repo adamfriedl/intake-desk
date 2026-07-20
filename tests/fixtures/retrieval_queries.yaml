@@ -1,0 +1,33 @@
+# Retrieval smoke queries — expected doc_id prefix in top-k results.
+# Run via: pytest tests/test_retrieval.py -m integration
+
+queries:
+  - query: "Oregon landlord 72-hour nonpayment notice termination"
+    matter_type: tenant_housing
+    jurisdiction: oregon
+    expect_doc_prefix: or-notice-types
+
+  - query: "illegal lockout changed locks landlord Oregon"
+    matter_type: tenant_housing
+    jurisdiction: oregon
+    expect_doc_prefix: or-illegal-lockout
+
+  - query: "security deposit not returned after move out Eugene"
+    matter_type: tenant_housing
+    jurisdiction: oregon
+    expect_doc_prefix: or-security-deposits
+
+  - query: "debt collector validation letter dispute within 30 days"
+    matter_type: consumer_debt
+    jurisdiction: federal
+    expect_doc_prefix: ftc-debt-validation
+
+  - query: "credit report error dispute with credit bureau"
+    matter_type: consumer_debt
+    jurisdiction: federal
+    expect_doc_prefix: ftc-credit-reporting
+
+  - query: "SNAP denial notice appeal deadline Oregon"
+    matter_type: benefits_denial
+    jurisdiction: federal
+    expect_doc_prefix: benefits-appeal-windows

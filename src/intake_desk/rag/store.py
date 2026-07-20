@@ -134,3 +134,19 @@ class VectorStore:
     def chunk_count(self) -> int:
         with Session(self.engine) as session:
             return int(session.scalar(select(func.count()).select_from(ChunkRow)) or 0)
+
+    def get_chunk(self, chunk_id: str) -> dict[str, str] | None:
+        with Session(self.engine) as session:
+            row = session.get(ChunkRow, chunk_id)
+            if not row:
+                return None
+            doc = session.get(DocumentRow, row.doc_id)
+            return {
+                "chunk_id": row.chunk_id,
+                "doc_id": row.doc_id,
+                "source": row.source,
+                "text": row.text,
+                "jurisdiction": row.jurisdiction,
+                "matter_types": row.matter_types,
+                "source_url": doc.source_url if doc else "",
+            }
