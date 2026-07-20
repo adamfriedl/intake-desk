@@ -12,6 +12,7 @@ from intake_desk.schemas.models import (
     SectionReviewUpdate,
     SessionRecord,
 )
+from intake_desk.triage.outcomes import compute_triage
 
 
 class SessionStore:
@@ -30,9 +31,13 @@ class SessionStore:
                         original_content=section.content,
                     )
                 )
+        triage, client_response, case_file = compute_triage(result)
         record = SessionRecord(
             session_id=result.session_id,
             pipeline=result,
+            triage=triage,
+            client_response=client_response,
+            case_file=case_file,
             reviewed_sections=sections,
             updated_at=datetime.now(UTC),
         )

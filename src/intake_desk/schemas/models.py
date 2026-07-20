@@ -26,6 +26,12 @@ class SectionReviewStatus(str, Enum):
     REJECTED = "rejected"
 
 
+class TriageOutcome(str, Enum):
+    SELF_HELP = "self_help"
+    ESCALATE = "escalate"
+    REFUSE = "refuse"
+
+
 class IntakeRecord(BaseModel):
     session_id: UUID = Field(default_factory=uuid4)
     parties: list[str] = Field(default_factory=list)
@@ -94,9 +100,41 @@ class ReviewedSection(BaseModel):
     review_status: SectionReviewStatus = SectionReviewStatus.PENDING
 
 
+class ClientResponse(BaseModel):
+    outcome: TriageOutcome
+    headline: str
+    message: str
+    answer: str | None = None
+    next_steps: list[str] = Field(default_factory=list)
+
+
+class CaseFile(BaseModel):
+    session_id: UUID
+    created_at: datetime
+    matter_type: MatterType
+    routing: str
+    urgency: Literal["low", "medium", "high"]
+    jurisdiction: str | None = None
+    jurisdiction_missing: bool = False
+    parties: list[str] = Field(default_factory=list)
+    facts: list[str] = Field(default_factory=list)
+    flags: list[str] = Field(default_factory=list)
+    relief_sought: str | None = None
+    triage: TriageOutcome
+    human_review_required: bool = False
+    classification_rationale: str | None = None
+    grounded_answer: str | None = None
+    citations: list[RetrievalCitation] = Field(default_factory=list)
+    refused: bool = False
+    refusal_reason: str | None = None
+
+
 class SessionRecord(BaseModel):
     session_id: UUID
     pipeline: PipelineResult
+    triage: TriageOutcome
+    client_response: ClientResponse
+    case_file: CaseFile
     reviewed_sections: list[ReviewedSection] = Field(default_factory=list)
     updated_at: datetime = Field(default_factory=lambda: datetime.now(UTC))
 
