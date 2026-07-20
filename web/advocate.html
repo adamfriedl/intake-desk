@@ -3,47 +3,94 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Intake Desk — Advocate</title>
+    <title>Intake Desk — Advocate Desk</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="/static/styles.css" />
   </head>
   <body>
-    <header>
-      <h1>Advocate desk</h1>
-      <p class="muted">Review intake, verify citations, and approve internal draft sections.</p>
-      <p class="muted"><a href="/">← Client intake</a></p>
-    </header>
-
-    <div class="card">
-      <label for="session-id"><strong>Session ID</strong></label>
-      <input id="session-id" type="text" placeholder="Paste session UUID from client intake" />
-      <button id="load-session" type="button">Load case file</button>
-    </div>
-
-    <div id="results" class="hidden">
-      <h2>Case file</h2>
-      <div id="case-file" class="card"></div>
-
-      <h2>Grounded answer (staff)</h2>
-      <div id="answer" class="card"></div>
-
-      <h2>Citations</h2>
-      <div id="citations" class="grid"></div>
-      <div id="chunk-panel" class="hidden card"></div>
-
-      <h2>Internal draft — section review</h2>
-      <p class="muted">
-        Approve sections you’d include in advocate notes. Clients do not see this step.
-      </p>
-      <div id="draft-actions">
-        <button id="approve-all" type="button">Approve all pending</button>
+    <div class="shell">
+      <div class="topbar">
+        <a class="brand" href="/">
+          <div class="brand-mark">Intake <span>Desk</span></div>
+          <div class="brand-sub">Advocate workspace</div>
+        </a>
+        <nav class="nav-links">
+          <a href="/">Client intake</a>
+          <a class="active" href="/advocate">Advocate desk</a>
+        </nav>
       </div>
-      <div id="sections" class="grid"></div>
 
-      <h2>Audit log</h2>
-      <pre id="audit" class="raw"></pre>
+      <section class="hero">
+        <h1>Case file &amp; review</h1>
+        <p>
+          Open a client session to verify citations, read the grounded answer, and approve internal
+          draft sections before follow-up.
+        </p>
+      </section>
+
+      <div class="panel">
+        <div class="load-row">
+          <div>
+            <label for="session-id">Session ID</label>
+            <input id="session-id" type="text" placeholder="Paste UUID from client intake" />
+          </div>
+          <button id="load-session" class="btn-primary" type="button">Load case file</button>
+        </div>
+      </div>
+
+      <div id="results" class="hidden" style="margin-top: 1rem">
+        <div class="desk-grid">
+          <aside class="desk-sidebar">
+            <div class="panel">
+              <h2>Case file</h2>
+              <div id="case-file"></div>
+            </div>
+          </aside>
+
+          <div>
+            <div class="panel">
+              <h2>Grounded answer</h2>
+              <p class="panel-note">
+                Staff-only. Click citation chips to open source chunks. Clients on escalate do not
+                see this text.
+              </p>
+              <div id="answer" class="answer-body"></div>
+            </div>
+
+            <div class="panel">
+              <h2>Citations</h2>
+              <div id="citations" class="grid"></div>
+              <div id="chunk-panel" class="chunk-panel hidden"></div>
+            </div>
+
+            <div class="panel">
+              <h2>Internal draft</h2>
+              <p class="panel-note">
+                Approve sections you’d keep in advocate notes. This is not a client deliverable.
+              </p>
+              <div class="btn-row" id="draft-actions">
+                <button id="approve-all" class="btn-secondary" type="button">
+                  Approve all pending
+                </button>
+              </div>
+              <div id="sections" class="grid" style="margin-top: 0.85rem"></div>
+            </div>
+
+            <div class="panel">
+              <h2>Audit log</h2>
+              <pre id="audit" class="raw"></pre>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <p id="status" class="status-line"></p>
     </div>
-
-    <p id="status" class="muted"></p>
     <script src="/static/advocate.js"></script>
   </body>
 </html>

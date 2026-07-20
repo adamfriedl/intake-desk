@@ -7,6 +7,7 @@ Agentic legal intake, triage, and guided-document workflow — a portfolio proje
 ## What it does
 
 **Client intake** (`/`): layperson describes a problem → triage outcome:
+
 - **Self-help** — short cited answer when the situation is straightforward
 - **Escalate** — intake recorded for advocate follow-up (complex, urgent, or missing jurisdiction)
 - **Refuse** — outside corpus / cannot ground safely

@@ -6,7 +6,7 @@ const statusEl = document.getElementById('status');
 submit.addEventListener('click', runIntake);
 
 async function runIntake() {
-  statusEl.textContent = 'Submitting intake...';
+  statusEl.textContent = 'Submitting intake…';
   submit.disabled = true;
   results.classList.add('hidden');
   try {
@@ -16,7 +16,7 @@ async function runIntake() {
       body: JSON.stringify({ message: message.value, include_draft: true }),
     });
     const data = await response.json();
-    if (!response.ok) throw new Error(data.detail || 'Request failed');
+    if (!response.ok) throw new Error(formatDetail(data.detail) || 'Request failed');
     renderClient(data);
     results.classList.remove('hidden');
     statusEl.textContent = '';
@@ -27,13 +27,33 @@ async function runIntake() {
   }
 }
 
+function formatDetail(detail) {
+  if (!detail) return '';
+  if (typeof detail === 'string') return detail;
+  return JSON.stringify(detail);
+}
+
 function renderClient(record) {
   const client = record.client_response;
   const banner = document.getElementById('outcome-banner');
+  const pill = document.getElementById('outcome-pill');
+
   banner.className = 'banner';
-  if (client.outcome === 'refuse') banner.classList.add('danger');
-  if (client.outcome === 'self_help') banner.classList.add('ok');
-  banner.innerHTML = `<strong>${escapeHtml(client.outcome.replace('_', ' '))}</strong>`;
+  pill.className = 'pill';
+  if (client.outcome === 'refuse') {
+    banner.classList.add('danger');
+    pill.classList.add('bad');
+  } else if (client.outcome === 'self_help') {
+    banner.classList.add('ok');
+    pill.classList.add('ok');
+  } else {
+    banner.classList.add('warn');
+    pill.classList.add('warn');
+  }
+
+  const label = client.outcome.replace('_', ' ');
+  banner.innerHTML = `<strong>${escapeHtml(client.headline)}</strong>${escapeHtml(client.message)}`;
+  pill.textContent = label;
 
   document.getElementById('headline').textContent = client.headline;
   document.getElementById('message-out').textContent = client.message;
@@ -46,7 +66,7 @@ function renderClient(record) {
     selfHelp.classList.add('hidden');
   }
 
-  document.getElementById('next-steps').innerHTML = client.next_steps
+  document.getElementById('next-steps').innerHTML = (client.next_steps || [])
     .map((step) => `<li>${escapeHtml(step)}</li>`)
     .join('');
 

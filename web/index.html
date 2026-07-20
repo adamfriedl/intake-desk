@@ -3,50 +3,91 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Intake Desk — Client Intake</title>
+    <title>Intake Desk — Legal Aid Intake</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="/static/styles.css" />
   </head>
   <body>
-    <header>
-      <h1>Legal Aid Intake</h1>
-      <p class="muted">
-        Describe your situation. We’ll share general information when it’s clear and safe, or
-        record your intake for advocate follow-up when it isn’t.
-      </p>
-      <p class="muted"><a href="/advocate">Staff / advocate view →</a></p>
-    </header>
-
-    <div class="banner">
-      Not legal advice. Educational materials only. If you are in immediate danger, call 911.
-    </div>
-
-    <label for="message"><strong>What’s going on?</strong></label>
-    <textarea
-      id="message"
-      placeholder="Example: My roommate is trying to kick me out. I'm not on the lease but I've lived here 6 months."
-    ></textarea>
-    <button id="submit">Submit intake</button>
-
-    <div id="results" class="hidden">
-      <div id="outcome-banner" class="banner"></div>
-      <h2 id="headline"></h2>
-      <p id="message-out"></p>
-
-      <div id="self-help" class="hidden">
-        <h2>Information from our materials</h2>
-        <div id="answer" class="card"></div>
+    <div class="shell">
+      <div class="topbar">
+        <a class="brand" href="/">
+          <div class="brand-mark">Intake <span>Desk</span></div>
+          <div class="brand-sub">Legal aid front door</div>
+        </a>
+        <nav class="nav-links">
+          <a class="active" href="/">Client intake</a>
+          <a href="/advocate">Advocate desk</a>
+        </nav>
       </div>
 
-      <h2>Next steps</h2>
-      <ul id="next-steps"></ul>
+      <section class="hero">
+        <h1>Tell us what’s going on.</h1>
+        <p>
+          We’ll record your facts for a case file, share general information when it’s clear and
+          safe, or route you to an advocate when it isn’t.
+        </p>
+      </section>
 
-      <p id="staff-link" class="muted hidden">
-        Staff reference:
-        <a id="advocate-link" href="#">Open case file</a>
-      </p>
+      <div class="banner warn">
+        <strong>Not legal advice</strong>
+        Educational materials only. If you are in immediate danger, call 911.
+      </div>
+
+      <div class="intake-compose">
+        <div class="panel">
+          <label for="message">Describe your situation</label>
+          <textarea
+            id="message"
+            placeholder="Example: My roommate is trying to kick me out in Portland. I’m not on the lease but I’ve lived there six months."
+          ></textarea>
+          <div class="btn-row">
+            <button id="submit" class="btn-primary" type="button">Submit intake</button>
+          </div>
+        </div>
+
+        <aside class="aside-card">
+          <h3>What happens next</h3>
+          <ol>
+            <li><strong>Self-help</strong> — clear situations get cited general information.</li>
+            <li><strong>Escalate</strong> — complex or urgent matters become a case file for staff.</li>
+            <li><strong>Refuse</strong> — we say so when our materials can’t safely cover it.</li>
+          </ol>
+        </aside>
+      </div>
+
+      <div id="results" class="hidden" style="margin-top: 1rem">
+        <div id="outcome-banner" class="banner"></div>
+        <div class="panel">
+          <div class="outcome-head">
+            <span id="outcome-pill" class="pill"></span>
+          </div>
+          <h2 id="headline"></h2>
+          <p id="message-out" class="muted"></p>
+
+          <div id="self-help" class="hidden" style="margin-top: 1rem">
+            <h3 style="font-family: var(--font-display); margin: 0 0 0.5rem">
+              Information from our materials
+            </h3>
+            <div id="answer" class="answer-body panel" style="box-shadow: none; background: var(--surface)"></div>
+          </div>
+
+          <h3 style="font-family: var(--font-display); margin: 1.25rem 0 0.4rem">Next steps</h3>
+          <ul id="next-steps" class="next-steps"></ul>
+
+          <p id="staff-link" class="muted hidden" style="margin-top: 1.25rem">
+            Staff reference:
+            <a id="advocate-link" href="#">Open case file</a>
+          </p>
+        </div>
+      </div>
+
+      <p id="status" class="status-line"></p>
     </div>
-
-    <p id="status" class="muted"></p>
     <script src="/static/client.js"></script>
   </body>
 </html>
