@@ -1,6 +1,6 @@
 # Intake Desk
 
-Agentic legal intake, triage, and guided-document workflow — a portfolio project demonstrating RAG, multi-step LLM orchestration, schema-validated outputs, and golden-scenario evals for legal self-help contexts.
+Agentic legal intake, triage, and guided-document workflow — a WIP project demonstrating RAG, multi-step LLM orchestration, schema-validated outputs, and golden-scenario evals for legal self-help contexts.
 
 **Status:** Legal aid intake prototype — redesigned client/advocate UI, ~41-doc / ~30k-word corpus, triage (self-help / escalate / refuse), pgvector RAG.
 
