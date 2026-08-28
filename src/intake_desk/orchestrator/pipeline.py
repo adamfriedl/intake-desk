@@ -79,7 +79,7 @@ class IntakePipeline:
             log.status = "completed"
             log.completed_at = datetime.now(UTC)
             return result
-        except Exception as exc:  # noqa: BLE001 — surface pipeline failures to API layer
+        except Exception as exc:
             log.status = "failed"
             log.completed_at = datetime.now(UTC)
             log.detail = str(exc)

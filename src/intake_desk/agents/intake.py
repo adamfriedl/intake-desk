@@ -5,7 +5,6 @@ from __future__ import annotations
 from intake_desk.llm import LLMClient, parse_json_response
 from intake_desk.schemas.models import IntakeRecord
 
-
 INTAKE_SYSTEM = """You extract structured legal intake facts from layperson messages.
 Return JSON with keys: parties (list), jurisdiction (string or null), facts (list),
 relief_sought (string or null), urgency (low|medium|high), flags (list of strings).

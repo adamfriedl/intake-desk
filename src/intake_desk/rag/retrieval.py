@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 import math
 from dataclasses import dataclass
 
@@ -10,6 +11,8 @@ from intake_desk.rag.chunking import TextChunk, build_chunks_from_manifest
 from intake_desk.rag.embeddings import embed_texts
 from intake_desk.rag.store import VectorStore
 from intake_desk.schemas.models import MatterType, RetrievalCitation
+
+log = logging.getLogger(__name__)
 
 
 @dataclass
@@ -148,8 +151,8 @@ def build_retriever(settings: Settings):
         store.init_schema()
         if store.chunk_count() > 0:
             return PgvectorRetriever(settings, store)
-    except Exception:  # noqa: BLE001 — fall back for local/dev without DB
-        pass
+    except Exception:
+        log.debug("pgvector unavailable; using in-memory retriever", exc_info=True)
     return InMemoryRetriever(settings)
 
 

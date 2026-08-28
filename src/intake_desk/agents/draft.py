@@ -5,7 +5,6 @@ from __future__ import annotations
 from intake_desk.llm import LLMClient, parse_json_response
 from intake_desk.schemas.models import DraftOutline, MatterClassification
 
-
 DRAFT_SYSTEM = """Create a section-level draft outline for advocate review.
 Return JSON with keys: matter_type, sections (list of {title, content, status}),
 disclaimer (string). Status must be one of: draft, needs_review, blocked.

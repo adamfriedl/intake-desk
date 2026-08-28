@@ -62,7 +62,7 @@ async def run_intake(request: IntakeRequest) -> SessionRecord:
     try:
         result = await pipeline.run(request.message, include_draft=request.include_draft)
         return session_store.save_pipeline(result)
-    except Exception as exc:  # noqa: BLE001
+    except Exception as exc:
         raise HTTPException(status_code=500, detail=str(exc)) from exc
 
 
