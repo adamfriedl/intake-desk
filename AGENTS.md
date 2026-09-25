@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Repo-specific guidance for AI coding agents. Cross-repo Definition of Done: Cursor rule `forge-agent-dod` + `verify` skill.
+Repo-specific guidance for AI coding agents.
 
 ## What this repo is
 
